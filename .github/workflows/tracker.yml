@@ -1,9 +1,7 @@
 name: OLX Deal Tracker
 
 on:
-  schedule:
-    - cron: '0 */2 * * *' # Every 2 hours
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch: # Manual trigger only
 
 concurrency:
   group: olx-tracker
