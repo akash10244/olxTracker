@@ -1,0 +1,2511 @@
+{
+  "1831600516": {
+    "ad_id": "1831600516",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-laggere-bengaluru-iid-1831600516",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 85000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop used others in laggere bengaluru",
+    "description_hash": "3a56ff5c24dc28b954cb22b5d81c4b323874f5d9e17db2ebe1a7d0f892996c1a",
+    "scam_risk": "low",
+    "description_quality": "moderate",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "Brand New white  ant ESPORTS crystal z clear",
+        "value": "Brand New case"
+      },
+      "cpu": {
+        "evidence": "Ryzen 5 3500",
+        "value": "AMD Ryzen 5 3500"
+      },
+      "gpu": {
+        "evidence": "3060 12GB NVIDIA WITH BOX",
+        "value": "NVIDIA RTX 3060 12GB"
+      },
+      "ram": {
+        "evidence": "16GB 2666MHZ CRUCIAL",
+        "value": "16GB 2666MHz Crucial"
+      },
+      "storage": {
+        "evidence": "SSD-M.2 NVMe Gen 3x4 256GB",
+        "value": "256GB M.2 NVMe Gen 3x4 SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "short_summary": "Severely overpriced Ryzen 5 3500 and RTX 3060 system.",
+    "detailed_summary": "The listing features an older mid-range processor (Ryzen 5 3500), a base RTX 3060 12GB, slow 2666MHz 16GB RAM, and a small 256GB NVMe SSD. While the case is brand new and a liquid cooler is included, an asking price of 85,000 INR is wildly disproportionate to the actual market value of these used components, making it a bad deal."
+  },
+  "1841765073": {
+    "ad_id": "1841765073",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-nandini-layout-bengaluru-iid-1841765073",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 456789
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 computerdesktop used others in nandini layout bengaluru",
+    "description_hash": "cf0bf77125e81862ad5b8c4f824e6cdd3716a6cfa35aa1301ef9c13046a3c570",
+    "scam_risk": "high",
+    "description_quality": "detailed",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": null,
+        "value": null
+      },
+      "cpu": {
+        "evidence": "Ryzen 7 9800X3D",
+        "value": "AMD Ryzen 7 9800X3D"
+      },
+      "gpu": {
+        "evidence": "ASUS Prime Radeon RX9070XT 16GB GDDR6 VRAM",
+        "value": "AMD Radeon RX 9070 XT"
+      },
+      "ram": {
+        "evidence": "Kingston Fury RGB 64GB (32X2) CL30 6000Mhz",
+        "value": "64GB DDR5 6000MHz"
+      },
+      "storage": {
+        "evidence": "WD Black SN7100 2TB M.2 nvme SSD, Acer Predator GM7100 1TB nvme M.2 SSD",
+        "value": "3TB NVMe SSD (2TB + 1TB)"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "short_summary": "Extremely overpriced high-end PC build, likely a placeholder or scam.",
+    "detailed_summary": "The listing features very high-end components such as a Ryzen 7 9800X3D and Radeon RX 9070 XT, along with 64GB DDR5 RAM and 3TB NVMe storage. However, the asking price is set at an absurd 4,56,789 INR, which vastly exceeds the realistic market value of these parts even brand new. Because of this massive price anomaly, the deal is rated as bad with a high scam risk."
+  },
+  "1845158318": {
+    "ad_id": "1845158318",
+    "url": "https://www.olx.in/item/games-entertainment-c93-high-end-gaming-pc-available-for-sale-with-rtx-5060-graphics-card-in-frazer-town-bengaluru-iid-1845158318",
+    "first_seen_at": "2026-08-14T03:46:00.200Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-14T03:46:00.200Z",
+        "price": 99999
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "games entertainment c93 high end gaming pc available for sale with rtx 5060 graphics card in frazer town bengaluru",
+    "description_hash": "c27d224f8d28168df6f9bac29754deab2d6619a624842ecc3a59e10995ca259a",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "value": null
+      },
+      "cpu": {
+        "evidence": null,
+        "value": null
+      },
+      "gpu": {
+        "evidence": "MSI RTX 5060 With 8GB RAM",
+        "value": "MSI RTX 5060 8GB"
+      },
+      "ram": {
+        "evidence": "Ram - 32GB DDR5 Ram sticks",
+        "value": "32GB DDR5"
+      },
+      "storage": {
+        "evidence": "Storage - 2TB SSD",
+        "value": "2TB SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "high",
+    "description_quality": "lazy",
+    "short_summary": "Suspicious listing mentioning a non-existent RTX 5060 and omitting the CPU.",
+    "detailed_summary": "The listing claims to feature an 'RTX 5060' graphics card, a component that does not exist in the current consumer market, raising immediate red flags for a fake listing or scam. Furthermore, the description completely lacks any mention of the processor (CPU) and warranty details, making it a lazy and untrustworthy listing. Per user instructions, missing or impossible hardware specs result in a 'bad' deal tier and high scam risk."
+  },
+  "1847071917": {
+    "ad_id": "1847071917",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-jigani-bengaluru-iid-1847071917",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 115000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop used others in jigani bengaluru",
+    "description_hash": "db9ee6326df8fd096aec53b3f6f0f8059582f63c0734c992b1c7a18b9cc08507",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": "13 months old",
+        "value": 13
+      },
+      "condition": {
+        "evidence": null,
+        "value": null
+      },
+      "cpu": {
+        "evidence": "i5 14400f",
+        "value": "Intel Core i5-14400F"
+      },
+      "gpu": {
+        "evidence": "RTX 3080",
+        "value": "NVIDIA RTX 3080"
+      },
+      "ram": {
+        "evidence": "G Skill 16gb 5600mhz Aegis Ram",
+        "value": "16GB 5600MHz"
+      },
+      "storage": {
+        "evidence": "Crucial e100 1tb ssd",
+        "value": "1TB SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "moderate",
+    "last_notified_tier": "okay",
+    "last_notified_price": 115000
+  },
+  "1848130270": {
+    "ad_id": "1848130270",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-lenovo-in-banashankari-bengaluru-iid-1848130270",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 45000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop used lenovo in banashankari bengaluru",
+    "description_hash": "bcea1e71ee4738293ebfc5973e3ba712e95ce6a27ca0bdb9f74f55ea2e59a19b",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "working fine",
+        "value": "working fine"
+      },
+      "cpu": {
+        "evidence": "I5 11th gen processor",
+        "value": "Intel Core i5 11th Gen"
+      },
+      "gpu": {
+        "evidence": "1650 laptop",
+        "value": "NVIDIA GeForce GTX 1650 Mobile"
+      },
+      "ram": {
+        "evidence": "16gb ram",
+        "value": "16GB"
+      },
+      "storage": {
+        "evidence": "512ssd",
+        "value": "512GB SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "low",
+    "description_quality": "moderate"
+  },
+  "1849471595": {
+    "ad_id": "1849471595",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-koramangala-bengaluru-iid-1849471595",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 215000
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 computerdesktop used others in koramangala bengaluru",
+    "description_hash": "04fd808ee9233a6070d26a069d1709d4d3dbb9ceb00e1817431a8841c068f1f8",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": "just 2 month's old",
+        "value": 2
+      },
+      "condition": {
+        "evidence": null,
+        "value": null
+      },
+      "cpu": {
+        "evidence": "Processor: AMD Ryzen 7 9700X",
+        "value": "AMD Ryzen 7 9700X"
+      },
+      "gpu": {
+        "evidence": "Graphics Card: MSI GeForce RTX 5070 Ti Inspire 3X OC 16GB",
+        "value": "MSI GeForce RTX 5070 Ti Inspire 3X OC 16GB"
+      },
+      "ram": {
+        "evidence": "RAM: Predator 32GB (2%C3%9716GB) DDR5 6000MHz",
+        "value": "Predator 32GB (2x16GB) DDR5 6000MHz"
+      },
+      "storage": {
+        "evidence": "Storage: Gigabyte 2TB NVMe Nvme m.2 SSD",
+        "value": "Gigabyte 2TB NVMe Nvme m.2 SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "high",
+    "description_quality": "detailed"
+  },
+  "1849477884": {
+    "ad_id": "1849477884",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-janatha-colony-bengaluru-iid-1849477884",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 185000
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 computerdesktop used others in janatha colony bengaluru",
+    "description_hash": "882990ae45f9b3ef907dc9e857103831239b05af95988c59b7e1c01e06142ddd",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": "Just 1 day old",
+        "value": 0
+      },
+      "condition": {
+        "evidence": "Very unique and premium design with all metal like Apple mac pro",
+        "value": "brand new"
+      },
+      "cpu": {
+        "evidence": "CPU - AMD Ryzen 9600X",
+        "value": "AMD Ryzen 5 9600X"
+      },
+      "gpu": {
+        "evidence": "Graphics - Zotac RTX 5070 12GB twinedge",
+        "value": "Zotac RTX 5070 12GB"
+      },
+      "ram": {
+        "evidence": "RAM - 32 (16GB x 2) XPG Lancer DDR5 6000mhz CL36",
+        "value": "32GB (2x16GB) DDR5 6000MHz"
+      },
+      "storage": {
+        "evidence": "SSD - Gigabyte 7000E AORUS 1 TB Gen4",
+        "value": "1TB Gen4 NVMe SSD"
+      },
+      "warranty": {
+        "evidence": "Box and bill available for all parts.",
+        "value": "Available with bill and box"
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "last_notified_tier": "okay",
+    "last_notified_price": 185000
+  },
+  "1850046890": {
+    "ad_id": "1850046890",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-hosapalya-bengaluru-iid-1850046890",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 90000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop used others in hosapalya bengaluru",
+    "description_hash": "2fd291c16c82bd6b9efef5809bfb3bdecf2178516465ec1fe24f8b729de34a3d",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "Clean, well-maintained system",
+        "value": "clean, well-maintained"
+      },
+      "cpu": {
+        "evidence": "Intel I7 12th gen 12700k",
+        "value": "Intel Core i7-12700K"
+      },
+      "gpu": {
+        "evidence": "MSI GeForce RTX 3060 Ventus 2x 12GB",
+        "value": "MSI RTX 3060 12GB"
+      },
+      "ram": {
+        "evidence": "XPG DDR5 16GB",
+        "value": "16GB DDR5"
+      },
+      "storage": {
+        "evidence": "1TB SSD",
+        "value": "1TB SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "last_notified_tier": "okay",
+    "last_notified_price": 90000
+  },
+  "1850054518": {
+    "ad_id": "1850054518",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-sangam-enclave-bengaluru-iid-1850054518",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 75000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop used others in sangam enclave bengaluru",
+    "description_hash": "c05e0aad7a275198e9fa9e30527700044207b86aa50e04acf7d7058aec99711f",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": "Used for only around 1.5 months",
+        "value": 1
+      },
+      "condition": {
+        "evidence": "Excellent condition with no issues",
+        "value": "Excellent"
+      },
+      "cpu": {
+        "evidence": "AMD Ryzen 5 5500 (6 Cores / 12 Threads)",
+        "value": "AMD Ryzen 5 5500"
+      },
+      "gpu": {
+        "evidence": "NVIDIA GeForce RTX 3050 6GB GDDR6",
+        "value": "NVIDIA GeForce RTX 3050 6GB"
+      },
+      "ram": {
+        "evidence": "16GB DDR4 RAM",
+        "value": "16GB DDR4"
+      },
+      "storage": {
+        "evidence": "1TB SSD (Freshly Formatted)",
+        "value": "1TB SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "last_notified_tier": "okay",
+    "last_notified_price": 75000
+  },
+  "1850074562": {
+    "ad_id": "1850074562",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-old-guddadahalli-bengaluru-iid-1850074562",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 13500
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 computerdesktop used others in old guddadahalli bengaluru",
+    "description_hash": "f1e727af8d945edc6be5484f1bbbb407ad1383fbf8b6be210fd7a4845cf0754d",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "Fully working, no issues.",
+        "value": "Fully working, no issues."
+      },
+      "cpu": {
+        "evidence": "Processor: Intel Core i3 2nd Generation",
+        "value": "Intel Core i3 2nd Generation"
+      },
+      "gpu": {
+        "evidence": null,
+        "value": null
+      },
+      "ram": {
+        "evidence": "RAM: 8GB DDR3 (Single Stick)",
+        "value": "8GB DDR3 (Single Stick)"
+      },
+      "storage": {
+        "evidence": "Storage: 256GB HDD",
+        "value": "256GB HDD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "low",
+    "description_quality": "moderate"
+  },
+  "1850204749": {
+    "ad_id": "1850204749",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-whitefield-bengaluru-iid-1850204749",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 180000
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 computerdesktop used others in whitefield bengaluru",
+    "description_hash": "c056d973fa6269a377cddc541644da90dd3d0ac837e7f85420d365097fbf3520",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": "Used for only 6 months",
+        "value": 6
+      },
+      "condition": {
+        "evidence": "maintained in excellent condition",
+        "value": "excellent"
+      },
+      "cpu": {
+        "evidence": "Intel Core i5-14600KF",
+        "value": "Intel Core i5-14600KF"
+      },
+      "gpu": {
+        "evidence": "Gigabyte GeForce RTX 5060 8GB GDDR7",
+        "value": "Gigabyte GeForce RTX 5060 8GB GDDR7"
+      },
+      "ram": {
+        "evidence": "32GB G.Skill Ripjaws M5 RGB DDR5 (2×16GB)",
+        "value": "32GB DDR5"
+      },
+      "storage": {
+        "evidence": "1TB NVMe SSD WD 7100 Black",
+        "value": "1TB NVMe SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "last_notified_tier": "okay",
+    "last_notified_price": 180000
+  },
+  "1850247213": {
+    "ad_id": "1850247213",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-asus-in-hal-3rd-stage-bengaluru-iid-1850247213",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 43000
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 computerdesktop used asus in hal 3rd stage bengaluru",
+    "description_hash": null,
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "used",
+        "value": "used"
+      },
+      "cpu": {
+        "evidence": null,
+        "value": null
+      },
+      "gpu": {
+        "evidence": null,
+        "value": null
+      },
+      "ram": {
+        "evidence": null,
+        "value": null
+      },
+      "storage": {
+        "evidence": null,
+        "value": null
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "medium",
+    "description_quality": "lazy",
+    "last_notified_tier": "okay",
+    "last_notified_price": 43000
+  },
+  "1850369139": {
+    "ad_id": "1850369139",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-drrajkumar-road-bengaluru-iid-1850369139",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 36500
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 computerdesktop used others in drrajkumar road bengaluru",
+    "description_hash": "0d5130e9f3cddcfb9090bba79c3dd5029079b7c5d4dfec23958b1ab4f15f27cc",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "used others",
+        "value": "used"
+      },
+      "cpu": {
+        "evidence": "Amd Ryzen 5 pro 1500x processor",
+        "value": "Amd Ryzen 5 pro 1500x"
+      },
+      "gpu": {
+        "evidence": "Gigabyte Gtx 1660 Super Oc edition 6gb vram",
+        "value": "Gigabyte Gtx 1660 Super Oc 6gb"
+      },
+      "ram": {
+        "evidence": "16gb ddr4 ram",
+        "value": "16gb ddr4"
+      },
+      "storage": {
+        "evidence": "512gb ssd + 1tb hdd",
+        "value": "512gb ssd + 1tb hdd"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "last_notified_tier": "okay",
+    "last_notified_price": 36500
+  },
+  "1850408579": {
+    "ad_id": "1850408579",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-benson-town-bengaluru-iid-1850408579",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 25600
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 computerdesktop used others in benson town bengaluru",
+    "description_hash": "7dd6695f3b391c0291b4106c75cd4d92130149787e6fe4e511a8645f2cfebef2",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "New condition",
+        "value": "New condition"
+      },
+      "cpu": {
+        "evidence": "INTEL I5 7TH GENERATION",
+        "value": "Intel Core i5-7400 or similar 7th Gen"
+      },
+      "gpu": {
+        "evidence": "GIGABYTE GeForce GTX 1050 Ti 4GB GDDR5 Graphics Card",
+        "value": "NVIDIA GeForce GTX 1050 Ti 4GB"
+      },
+      "ram": {
+        "evidence": "HyperX Fury 8GB DDR4  RAM",
+        "value": "8GB DDR4"
+      },
+      "storage": {
+        "evidence": "SSD 250GB",
+        "value": "250GB SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "low",
+    "description_quality": "moderate"
+  },
+  "1850457433": {
+    "ad_id": "1850457433",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-jp-nagar-phase-1-bengaluru-iid-1850457433",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 45500
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop used others in jp nagar phase 1 bengaluru",
+    "description_hash": "1d0d4a56bc4dfbcd20a7d0f0c24d4b8aefef65e83213d8516fd3307b8a021dcd",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": null,
+        "value": null
+      },
+      "cpu": {
+        "evidence": "RYZEN 5 5600X",
+        "value": "AMD Ryzen 5 5600X"
+      },
+      "gpu": {
+        "evidence": "GTX 1080 8gb",
+        "value": "NVIDIA GTX 1080 8GB"
+      },
+      "ram": {
+        "evidence": "8gb SAMSUNG DDR4 RAM",
+        "value": "8GB DDR4"
+      },
+      "storage": {
+        "evidence": "512 crucial m.2",
+        "value": "512GB Crucial M.2 SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "lazy",
+    "last_notified_tier": "okay",
+    "last_notified_price": 45500
+  },
+  "1850459787": {
+    "ad_id": "1850459787",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-in-suncity-kengeri-bangalore-bengaluru-iid-1850459787",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 210000
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 computerdesktop in suncity kengeri bangalore bengaluru",
+    "description_hash": "714fd6b92dcac5107ff8bfa06f8a3184738ec6692a6c5b90878bb8c3a174604d",
+    "extracted_specs": {
+      "age_months": {
+        "value": null
+      },
+      "condition": {
+        "value": null
+      },
+      "cpu": {
+        "value": "Amd ryzen 7 9700x"
+      },
+      "gpu": {
+        "value": "MSI 3060 ti OC 8gb 256bit"
+      },
+      "ram": {
+        "value": "CORSAIR Vengeance DDR5 32GB (2 x 16GB)"
+      },
+      "storage": {
+        "value": "Western Digital WD Black SN7100 NVMe 2TB + SSD 500gb + HDD 1TB"
+      },
+      "warranty": {
+        "value": null
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "last_notified_tier": "okay",
+    "last_notified_price": 210000
+  },
+  "1850481216": {
+    "ad_id": "1850481216",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-whitefield-bengaluru-iid-1850481216",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 120000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop used others in whitefield bengaluru",
+    "description_hash": "1cf798c3589d20387707d30368b83f43a096e6a9ec06eb9de1c12f73a2bf741f",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": "Brought NOV 24",
+        "value": 5
+      },
+      "condition": {
+        "evidence": "Brand New condition, Almost new.",
+        "value": "Brand New condition, Almost new"
+      },
+      "cpu": {
+        "evidence": "12th Gen Intel Core i9-12900 Desktop CPU",
+        "value": "Intel Core i9-12900"
+      },
+      "gpu": {
+        "evidence": "Intel UHD 770 Graphics",
+        "value": "Intel UHD 770 Graphics"
+      },
+      "ram": {
+        "evidence": "64GB DDR4-3200MHz RAM",
+        "value": "64GB DDR4"
+      },
+      "storage": {
+        "evidence": "1TB PCIe Gen 4 x4 NVMe M.2 SSD",
+        "value": "1TB NVMe SSD"
+      },
+      "warranty": {
+        "evidence": "all in WARRANTY with bill and box",
+        "value": "under warranty"
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "last_notified_tier": "okay",
+    "last_notified_price": 120000
+  },
+  "1850641735": {
+    "ad_id": "1850641735",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-banaswadi-subbanapalya-bengaluru-iid-1850641735",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 85000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop used others in banaswadi subbanapalya bengaluru",
+    "description_hash": "9911db50bf1a1c4e73ddcc43eaff323cfe9ddaf1358321ace7a3d34d3badbf4e",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": null,
+        "value": null
+      },
+      "cpu": {
+        "evidence": "AMD Ryzen 5 7600X Desktop Processor (Up to 5.3 Ghz) (100-100000593WOF)",
+        "value": "AMD Ryzen 5 7600X"
+      },
+      "gpu": {
+        "evidence": null,
+        "value": null
+      },
+      "ram": {
+        "evidence": "GSkill Ripjaws S5 16Gb (16Gbx1) DDR5 6000Mhz Desktop Ram (Matte Black) (F5-6000J3648D16GX1-RS5K)",
+        "value": "16GB DDR5 6000MHz"
+      },
+      "storage": {
+        "evidence": "Kingston NV3 1TB Gen4x4 M.2 Internal SSD (SNV3S-1000G)",
+        "value": "1TB NVMe SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "low",
+    "description_quality": "moderate"
+  },
+  "1850671631": {
+    "ad_id": "1850671631",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-nice-road-bengaluru-iid-1850671631",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 115000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop used others in nice road bengaluru",
+    "description_hash": "0d9cba922540c72ffaa0051dbf55a9905801e53922ba4e37e044fd0af1ed5c3e",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "New CPU cooler RGB New RGB Tower case New 500 w PSU New Linux Mint OS",
+        "value": "new components mentioned"
+      },
+      "cpu": {
+        "evidence": "Intel 12 Gen Xeon processor",
+        "value": "Intel 12 Gen Xeon"
+      },
+      "gpu": {
+        "evidence": "20GB Nvidia shared graphics (16GB internal shared Graphics +4GB dedicated GTX 1650)",
+        "value": "GTX 1650 4GB dedicated / 20GB shared"
+      },
+      "ram": {
+        "evidence": "New 32 GB Server Ram",
+        "value": "32 GB Server RAM"
+      },
+      "storage": {
+        "evidence": "New 256 GB SSD",
+        "value": "256 GB SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "medium",
+    "description_quality": "moderate"
+  },
+  "1850731242": {
+    "ad_id": "1850731242",
+    "url": "https://www.olx.in/item/games-entertainment-c93-ryzen-5-7500f-am5-gaming-pc-in-bangalore-airport-area-bengaluru-iid-1850731242",
+    "first_seen_at": "2026-08-14T03:46:00.200Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-14T03:46:00.200Z",
+        "price": 55000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "games entertainment c93 ryzen 5 7500f am5 gaming pc in bangalore airport area bengaluru",
+    "description_hash": "fefb646d35ee91a1f995ec11536e2bb19a44e7e4c848edd4551b2b4c771b94a6",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "brand new with original bill and warranty",
+        "value": "brand new"
+      },
+      "cpu": {
+        "evidence": "AMD Ryzen 7 5700F Processor",
+        "value": "AMD Ryzen 7 5700F"
+      },
+      "gpu": {
+        "evidence": "ASUS ROG Strix RX 5700 XT 8GB (Limited Edition)",
+        "value": "ASUS ROG Strix RX 5700 XT 8GB"
+      },
+      "ram": {
+        "evidence": "except RAM and SSD are not included",
+        "value": null
+      },
+      "storage": {
+        "evidence": "except RAM and SSD are not included",
+        "value": null
+      },
+      "warranty": {
+        "evidence": "All parts are brand new with original bill and warranty",
+        "value": "under warranty"
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "low",
+    "description_quality": "moderate",
+    "short_summary": "Incomplete system missing RAM and storage with an older GPU, failing minimum user specs.",
+    "detailed_summary": "The listing offers a partially built PC with an AM5 motherboard, CPU, and an older generation RX 5700 XT graphics card, but explicitly notes that RAM and storage are not included. According to the strict user constraints, the GPU falls short of the minimum requirement (RTX 3060 or higher equivalent) and crucial components are missing, making this a bad deal regardless of the stated warranty."
+  },
+  "1851023830": {
+    "ad_id": "1851023830",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-laptop-used-others-in-classic-paradise-layout-bengaluru-iid-1851023830",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 82000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 laptop used others in classic paradise layout bengaluru",
+    "description_hash": "e4e07336a3a3d25c8bde0f95480e67d55b29db9b045029db3ec707519750d79e",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "Like New",
+        "value": "Like New"
+      },
+      "cpu": {
+        "evidence": "Ryzen 5 ( 8600G ) Processor",
+        "value": "AMD Ryzen 5 8600G"
+      },
+      "gpu": {
+        "evidence": "GRAPHIS CARD MSI OG 6GB DDR6 (DUAL-RTX 3050-06G)",
+        "value": "MSI RTX 3050 6GB"
+      },
+      "ram": {
+        "evidence": "Tforce DDR5 RAM 16GB 2  6000MHZ",
+        "value": "32GB (2x16GB) DDR5 6000MHz"
+      },
+      "storage": {
+        "evidence": "WD Blue SSD 500 GB NVMe",
+        "value": "500GB NVMe SSD"
+      },
+      "warranty": {
+        "evidence": "Gaming PC complete Set-up under warranty with Bill",
+        "value": "Under warranty with bill"
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "last_notified_tier": "okay",
+    "last_notified_price": 82000
+  },
+  "1851050771": {
+    "ad_id": "1851050771",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-high-end-gaming-pc-in-dodsworth-layout-bengaluru-iid-1851050771",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 125000
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 high end gaming pc in dodsworth layout bengaluru",
+    "description_hash": "62973e9d8287d30bc9f6f07b3b86df62342b2051900f09cdeef70c82d60725b3",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": "around 1 year old",
+        "value": 12
+      },
+      "condition": {
+        "evidence": "excellent condition",
+        "value": "excellent"
+      },
+      "cpu": {
+        "evidence": "Processor: Intel Core i7-13700K",
+        "value": "Intel Core i7-13700K"
+      },
+      "gpu": {
+        "evidence": "Graphics Card: Gigabyte RTX 3060 Ti 8GB",
+        "value": "Gigabyte RTX 3060 Ti 8GB"
+      },
+      "ram": {
+        "evidence": "RAM: 16GB DDR4 3200MHz",
+        "value": "16GB DDR4 3200MHz"
+      },
+      "storage": {
+        "evidence": "Storage: WD Black SN770 1TB NVMe Gen4 SSD",
+        "value": "1TB NVMe Gen4 SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "last_notified_tier": "okay",
+    "last_notified_price": 125000
+  },
+  "1851069311": {
+    "ad_id": "1851069311",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-btm-layout-stage-4-bengaluru-iid-1851069311",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 68000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop used others in btm layout stage 4 bengaluru",
+    "description_hash": "1eaff7617b109a6d1ff38964aed0dea012c59a7cc13c4215b3ddec30972e1ea6",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "used",
+        "value": "used"
+      },
+      "cpu": {
+        "evidence": "Intel i7 11th Gen (11700k)",
+        "value": "Intel Core i7-11700K"
+      },
+      "gpu": {
+        "evidence": "8 GB (ASRock - Radeon RX580)",
+        "value": "ASRock Radeon RX 580 8GB"
+      },
+      "ram": {
+        "evidence": "32 GB (2 x Corsair Vengeance LPX 16GB DDR4 Up to 3200MHZ)",
+        "value": "32 GB DDR4"
+      },
+      "storage": {
+        "evidence": "500 SSD + 1 TB HDD",
+        "value": "500GB SSD + 1TB HDD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "low",
+    "description_quality": "moderate"
+  },
+  "1851143861": {
+    "ad_id": "1851143861",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-in-vadarpalya-bengaluru-iid-1851143861",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 125000
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 computerdesktop in vadarpalya bengaluru",
+    "description_hash": "5221e609760994c7082e580333d57ad6b37521128d31fe30137a8103bc1b6171",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": "1 year old",
+        "value": 12
+      },
+      "condition": {
+        "evidence": null,
+        "value": null
+      },
+      "cpu": {
+        "evidence": "CPU: Intel Core i5-12400F (12th Gen, LGA1700)",
+        "value": "Intel Core i5-12400F"
+      },
+      "gpu": {
+        "evidence": "GPU: Inno3D GeForce RTX 4070 Twin X2 (12GB)",
+        "value": "Inno3D GeForce RTX 4070 Twin X2 (12GB)"
+      },
+      "ram": {
+        "evidence": "RAM: Corsair Vengeance DDR5 32GB (1x32GB, 5200MHz)",
+        "value": "Corsair Vengeance DDR5 32GB (1x32GB, 5200MHz)"
+      },
+      "storage": {
+        "evidence": "SSD: Crucial P3 Plus 1TB PCIe 4.0 NVMe M.2 (157 power-on hours + 100% Health)HDD: Seagate 1TB SATA ( 164 power-on hours + perfect health)",
+        "value": "1TB NVMe SSD + 1TB HDD"
+      },
+      "warranty": {
+        "evidence": "no warranty",
+        "value": "no warranty"
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "low",
+    "description_quality": "detailed"
+  },
+  "1851186593": {
+    "ad_id": "1851186593",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-venkateshapuram-bengaluru-iid-1851186593",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 60000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop used others in venkateshapuram bengaluru",
+    "description_hash": "79140e4e975f23e65846aa89e524d204cece45a61573f3ae86bc67281b61447d",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "value": null
+      },
+      "cpu": {
+        "evidence": "Ryzen 5 5500",
+        "value": "Ryzen 5 5500"
+      },
+      "gpu": {
+        "evidence": "GTX 1660super 6gb",
+        "value": "GTX 1660 Super"
+      },
+      "ram": {
+        "evidence": "32gb ram",
+        "value": "32GB"
+      },
+      "storage": {
+        "evidence": "Ssd 256",
+        "value": "256GB SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "medium",
+    "description_quality": "lazy"
+  },
+  "1851272312": {
+    "ad_id": "1851272312",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-in-hbr-layout-bengaluru-iid-1851272312",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 3000
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 computerdesktop in hbr layout bengaluru",
+    "description_hash": "017bdae22c2bad8a438fc36895b35bd7cc2be636852c39747cf681683e2c7393",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "The cabinet is in good physical condition and comes with the installed fans as shown in the photos.Important: The cabinet is missing the front/top I/O assembly, so the power button, USB ports, audio ports, etc. are currently not usable.",
+        "value": "Good physical condition but missing front/top I/O assembly (power button, USB, and audio ports are unusable)"
+      },
+      "cpu": {
+        "evidence": null,
+        "value": null
+      },
+      "gpu": {
+        "evidence": null,
+        "value": null
+      },
+      "ram": {
+        "evidence": null,
+        "value": null
+      },
+      "storage": {
+        "evidence": null,
+        "value": null
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "last_notified_tier": "okay",
+    "last_notified_price": 3000
+  },
+  "1851339516": {
+    "ad_id": "1851339516",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-jayanagar-bengaluru-iid-1851339516",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 350000
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 computerdesktop used others in jayanagar bengaluru",
+    "description_hash": "b42ca30542cad2a0237819c07e1a6f33bcc64343747412135b46f068fecbdf36",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": "only around 2–3 months old",
+        "value": 3
+      },
+      "condition": {
+        "evidence": "Excellent condition",
+        "value": "Excellent"
+      },
+      "cpu": {
+        "evidence": "AMD Ryzen 9 7900X",
+        "value": "AMD Ryzen 9 7900X"
+      },
+      "gpu": {
+        "evidence": "NVIDIA GeForce RTX 5070 Ti 16GB",
+        "value": "NVIDIA GeForce RTX 5070 Ti 16GB"
+      },
+      "ram": {
+        "evidence": "64GB DDR5 RAM",
+        "value": "64GB DDR5"
+      },
+      "storage": {
+        "evidence": "1TB SSD Samsung .Evo approx.",
+        "value": "1TB SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "medium",
+    "description_quality": "detailed",
+    "last_notified_tier": "okay",
+    "last_notified_price": 350000
+  },
+  "1851434123": {
+    "ad_id": "1851434123",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-jp-nagar-bengaluru-iid-1851434123",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 85000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop used others in jp nagar bengaluru",
+    "description_hash": "28fe253e2e361da0c0cc768715a6641cc672f3765cda8f89351a9dfc5f4c917a",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": "3 months old",
+        "value": 3
+      },
+      "condition": {
+        "evidence": null,
+        "value": null
+      },
+      "cpu": {
+        "evidence": null,
+        "value": null
+      },
+      "gpu": {
+        "evidence": null,
+        "value": null
+      },
+      "ram": {
+        "evidence": null,
+        "value": null
+      },
+      "storage": {
+        "evidence": null,
+        "value": null
+      },
+      "warranty": {
+        "evidence": "warranty and all available",
+        "value": "available"
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "high",
+    "description_quality": "lazy"
+  },
+  "1851611531": {
+    "ad_id": "1851611531",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-btm-layout-bengaluru-iid-1851611531",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 400000
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 computerdesktop used others in btm layout bengaluru",
+    "description_hash": "194e6b586589efa6ce505524f233cf5e480ec7d2b65034a6453476aa74c28352",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": null,
+        "value": null
+      },
+      "cpu": {
+        "evidence": "Processor (CPU): Intel Core i9-14900KS",
+        "value": "Intel Core i9-14900KS"
+      },
+      "gpu": {
+        "evidence": "Graphics Card (GPU): MSI GeForce RTX 5080 Gaming Trio 16GB GDDR7",
+        "value": "MSI GeForce RTX 5080 Gaming Trio 16GB GDDR7"
+      },
+      "ram": {
+        "evidence": "Memory (RAM): 64GB (2x 32GB) Corsair Vengeance DDR5 6000 MHz CL30",
+        "value": "64GB (2x 32GB) Corsair Vengeance DDR5 6000 MHz CL30"
+      },
+      "storage": {
+        "evidence": "Primary SSD: 2TB NVMe (2x 1TB ADATA XPG GAMMIX S70 High-Speed M.2)  Secondary HDD: 1TB Seagate Barracuda SATA",
+        "value": "2TB NVMe SSD + 1TB HDD"
+      },
+      "warranty": {
+        "evidence": "Warranty until 2028",
+        "value": "Active until 2028"
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "medium",
+    "description_quality": "detailed",
+    "last_notified_tier": "okay",
+    "last_notified_price": 400000
+  },
+  "1851758803": {
+    "ad_id": "1851758803",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-nanjappa-reddy-colony-bengaluru-iid-1851758803",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 70000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop used others in nanjappa reddy colony bengaluru",
+    "description_hash": "5ad596138e7f0485d32ee46c84c062eecf3e117b01dcdd6db5f09e9c56aa3a04",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": null,
+        "value": null
+      },
+      "cpu": {
+        "evidence": "Ryzen 5 5000 series processor",
+        "value": "AMD Ryzen 5 5000 Series"
+      },
+      "gpu": {
+        "evidence": "COLOURFUL GRAPHICS CARD 4GB",
+        "value": "Colorful Graphics Card 4GB"
+      },
+      "ram": {
+        "evidence": "XPG 8GB*2=16GB",
+        "value": "16GB (2x8GB) XPG"
+      },
+      "storage": {
+        "evidence": "CRUCIAL 1tb nvme gen 2 ssd",
+        "value": "1TB Crucial NVMe SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "low",
+    "description_quality": "moderate"
+  },
+  "1851768907": {
+    "ad_id": "1851768907",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-used-dell-in-palace-guttanhalli-bengaluru-iid-1851768907",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 30000
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 used dell in palace guttanhalli bengaluru",
+    "description_hash": "207eac0988a0224c99b000fe5b358515fec538d1e4abe9333f2e1067a7170e67",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "used dell",
+        "value": "used"
+      },
+      "cpu": {
+        "evidence": "Core i7",
+        "value": "Core i7"
+      },
+      "gpu": {
+        "evidence": "Graphics  8GB  best for gaming and editingNVIDIA GeForce",
+        "value": "NVIDIA GeForce 8GB"
+      },
+      "ram": {
+        "evidence": "Ram - 16GB",
+        "value": "16GB"
+      },
+      "storage": {
+        "evidence": "Storage1TB",
+        "value": "1TB"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "high",
+    "description_quality": "lazy",
+    "last_notified_tier": "okay",
+    "last_notified_price": 30000
+  },
+  "1851781651": {
+    "ad_id": "1851781651",
+    "url": "https://www.olx.in/item/games-entertainment-c93-custom-rgb-gaming-desktop-pc-intel-core-i7-32gb-ssd-hdd-1tb-nvidia-rtx-in-singanahalli-hirehally-industrial-area-iid-1851781651",
+    "first_seen_at": "2026-08-14T03:46:00.200Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-14T03:46:00.200Z",
+        "price": 56000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "games entertainment c93 custom rgb gaming desktop pc intel core i7 32gb ssd hdd 1tb nvidia rtx in singanahalli hirehally industrial area",
+    "description_hash": "fe2f33f35d25a9b9b3768626fda4e69b47a26a05f261a57cab8e50b9afe6b571",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "Used. An item that has been used previously",
+        "value": "used"
+      },
+      "cpu": {
+        "evidence": "intel core i7",
+        "value": "Intel Core i7"
+      },
+      "gpu": {
+        "evidence": "nvidia rtx",
+        "value": "NVIDIA RTX"
+      },
+      "ram": {
+        "evidence": "32gb",
+        "value": "32GB"
+      },
+      "storage": {
+        "evidence": "ssd hdd 1tb",
+        "value": "1TB SSD/HDD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "medium",
+    "description_quality": "lazy",
+    "short_summary": "Vague listing with missing precise specs, carrying a medium scam risk and insufficient details to verify a good deal.",
+    "detailed_summary": "This listing from OLX India provides very little concrete information. It mentions an 'intel core i7' and an 'nvidia rtx', but completely omits the generation of the CPU and the specific model of the GPU (e.g., RTX 3060, RTX 3070). Without knowing whether it's an ancient 1st/2nd Gen i7 or a modern one, and which RTX card is included, the price of 56000 INR cannot be reliably assessed. Following strict extraction rules, we leave unstated specifics as null. Due to the lack of transparent information and potential misrepresentation risks, the deal is rated as bad."
+  },
+  "1851934906": {
+    "ad_id": "1851934906",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-mehboob-nagar-bengaluru-iid-1851934906",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 70000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop used others in mehboob nagar bengaluru",
+    "description_hash": "bb4897c1fb06859342e3b8e446a42c09f4fe29e5ef47dfab19fde27bcb1a33c5",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "There is no single issue with it just a bit dusty",
+        "value": "No issues, slightly dusty"
+      },
+      "cpu": {
+        "evidence": "Cpu : Ryzen 7 2700",
+        "value": "AMD Ryzen 7 2700"
+      },
+      "gpu": {
+        "evidence": "Gpu : Gtx Galax 1650 Super Oc 4gb",
+        "value": "NVIDIA GeForce GTX 1650 Super OC 4GB"
+      },
+      "ram": {
+        "evidence": "Ram : Corsair Vegance 8gb ddr4 3200Mhz",
+        "value": "8GB Corsair Vengeance DDR4 3200MHz"
+      },
+      "storage": {
+        "evidence": "Ssd : 221gb and 146gb Hdd",
+        "value": "221GB SSD + 146GB HDD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "low",
+    "description_quality": "moderate"
+  },
+  "1851963146": {
+    "ad_id": "1851963146",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-gaming-pc-ryzen-9-7900x-rtx-4070-super-32gb-ddr5-2tb-nvme-in-vadarpalya-bengaluru-iid-1851963146",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 160000
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 gaming pc ryzen 9 7900x rtx 4070 super 32gb ddr5 2tb nvme in vadarpalya bengaluru",
+    "description_hash": "37e370c62143d2b4c7f78dc59b8d15ece2769074eaa932844f79056521c4f872",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "everything runs clean and stable",
+        "value": "everything runs clean and stable"
+      },
+      "cpu": {
+        "evidence": "CPU: AMD Ryzen 9 7900X — 12 Cores / 24 Threads / 5.6GHz Boost",
+        "value": "AMD Ryzen 9 7900X"
+      },
+      "gpu": {
+        "evidence": "GPU: Gigabyte RTX 4070 Super Ice Eagle OC 12GB",
+        "value": "Gigabyte RTX 4070 Super Ice Eagle OC 12GB"
+      },
+      "ram": {
+        "evidence": "RAM: 32GB TeamGroup T-Force Vulcan DDR5 (32x1GB) 5200MHz CL40",
+        "value": "32GB TeamGroup T-Force Vulcan DDR5 5200MHz CL40"
+      },
+      "storage": {
+        "evidence": "Storage: Samsung 990 Pro 2TB NVMe — (99% health verified)",
+        "value": "Samsung 990 Pro 2TB NVMe"
+      },
+      "warranty": {
+        "evidence": "No bill/warranty.",
+        "value": "No bill/warranty"
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "last_notified_tier": "okay",
+    "last_notified_price": 160000
+  },
+  "1852003404": {
+    "ad_id": "1852003404",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-in-majestic-bengaluru-iid-1852003404",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 92999
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop in majestic bengaluru",
+    "description_hash": "0ef96fd1934627fd255d3e092015973de51bb1143eb71c0be312b2a93be6b095",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": null,
+        "value": null
+      },
+      "cpu": {
+        "evidence": "Processor (CPU):Intel Core i5-12400F 12th Gen Desktop Processor",
+        "value": "Intel Core i5-12400F 12th Gen"
+      },
+      "gpu": {
+        "evidence": "Graphics Card (GPU):GIGABYTE GeForce RTX 4060 EAGLE OC 8G",
+        "value": "GIGABYTE GeForce RTX 4060 EAGLE OC 8G"
+      },
+      "ram": {
+        "evidence": "RAM:CORSAIR Vengeance DDR5 16GB (1×16GB)",
+        "value": "CORSAIR Vengeance DDR5 16GB (1×16GB)"
+      },
+      "storage": {
+        "evidence": "Storage:Western Digital WD Green SN350 NVMe 1TB",
+        "value": "Western Digital WD Green SN350 NVMe 1TB"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "medium",
+    "description_quality": "detailed",
+    "last_notified_tier": "okay",
+    "last_notified_price": 92999
+  },
+  "1852026851": {
+    "ad_id": "1852026851",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-in-bilchikkanahalli-bengaluru-iid-1852026851",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 36500
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 computerdesktop in bilchikkanahalli bengaluru",
+    "description_hash": "5d14562b730e6b0712673b2cdc9550d9ec84ea967bc89abcb58dc3d3c44501de",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": null,
+        "value": null
+      },
+      "cpu": {
+        "evidence": "Intel Core i5 9th Gen Activated",
+        "value": "Intel Core i5 9th Gen"
+      },
+      "gpu": {
+        "evidence": "Aorus AMD Radeon RX 570 6GB",
+        "value": "Aorus AMD Radeon RX 570 6GB"
+      },
+      "ram": {
+        "evidence": "16GB",
+        "value": "16GB"
+      },
+      "storage": {
+        "evidence": "1TB SSD ( WD SSD and Seagate )",
+        "value": "1TB SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "moderate",
+    "last_notified_tier": "okay",
+    "last_notified_price": 36500
+  },
+  "1852039403": {
+    "ad_id": "1852039403",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-vadarpalya-bengaluru-iid-1852039403",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 68000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop used others in vadarpalya bengaluru",
+    "description_hash": "d2fca671d7b2637e3799808c8fa8ba0ea50ac24043912d81ee8c505941a7177a",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": "Used for a year",
+        "value": 12
+      },
+      "condition": {
+        "evidence": "well-maintained, fully functional and runs flawlessly",
+        "value": "well-maintained, fully functional and runs flawlessly"
+      },
+      "cpu": {
+        "evidence": "CPU: Intel Core i5-12400F (6 Cores & 12 Threads)",
+        "value": "Intel Core i5-12400F"
+      },
+      "gpu": {
+        "evidence": "GPU: Gigabyte GeForce RTX 3060 Ti Gaming OC 8GB (Windforce, RGB Fusion 2.0)",
+        "value": "Gigabyte GeForce RTX 3060 Ti Gaming OC 8GB"
+      },
+      "ram": {
+        "evidence": "RAM: 16GB (8gb G.Skill Ripjaws X & 8gb Adata XPG DDR4)",
+        "value": "16GB (8gb G.Skill Ripjaws X & 8gb Adata XPG DDR4)"
+      },
+      "storage": {
+        "evidence": "Storage: 500GB Samsung NVMe SSD (100% Health)",
+        "value": "500GB Samsung NVMe SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "last_notified_tier": "okay",
+    "last_notified_price": 68000
+  },
+  "1852090011": {
+    "ad_id": "1852090011",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-koramangala-bengaluru-iid-1852090011",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 73000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop used others in koramangala bengaluru",
+    "description_hash": "45ed037aeba74d2afc7b48ae27386dff4484bd85b4db060014b790b7ae7ff6df",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "good working condition",
+        "value": "good working condition"
+      },
+      "cpu": {
+        "evidence": "i7 10700k processer",
+        "value": "Intel Core i7-10700K"
+      },
+      "gpu": {
+        "evidence": "MSI RTX 3060 12gb Vram Graphics card",
+        "value": "MSI NVIDIA GeForce RTX 3060 12GB"
+      },
+      "ram": {
+        "evidence": "32gb gskill RGB ddr4 Ram",
+        "value": "32GB G.Skill RGB DDR4"
+      },
+      "storage": {
+        "evidence": "1tb nvme m.2 ssd1tb hdd storage",
+        "value": "1TB NVMe M.2 SSD + 1TB HDD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "low",
+    "description_quality": "detailed"
+  },
+  "1852135591": {
+    "ad_id": "1852135591",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-thippenahalli-bengaluru-iid-1852135591",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 200000
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 computerdesktop used others in thippenahalli bengaluru",
+    "description_hash": "59fa6a20b05e4da975ac1f41f0d6588d77c932f313f1c2320940c9ab084ee74b",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": null,
+        "value": null
+      },
+      "cpu": {
+        "evidence": "intel core ultra 7",
+        "value": "Intel Core Ultra 7"
+      },
+      "gpu": {
+        "evidence": "5060 ti 16 gb gigabyte",
+        "value": "Gigabyte RTX 5060 Ti 16GB"
+      },
+      "ram": {
+        "evidence": "16 gb corsair vengeance",
+        "value": "16GB Corsair Vengeance"
+      },
+      "storage": {
+        "evidence": null,
+        "value": null
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "medium",
+    "description_quality": "lazy"
+  },
+  "1852153447": {
+    "ad_id": "1852153447",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-asus-in-sompura-bengaluru-iid-1852153447",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 37000
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 computerdesktop used asus in sompura bengaluru",
+    "description_hash": "3aef7bf4a0c76817a6750fbd4c48895b4b287898ba50bf8aa5295f998e613dbe",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "PC is in working condition",
+        "value": "working"
+      },
+      "cpu": {
+        "evidence": "Intel Core i3-9100F 9th Gen Processor",
+        "value": "Intel Core i3-9100F"
+      },
+      "gpu": {
+        "evidence": "NVIDIA GeForce GTX 1660 Super",
+        "value": "NVIDIA GeForce GTX 1660 Super"
+      },
+      "ram": {
+        "evidence": "8GB DDR4 RAM",
+        "value": "8GB DDR4"
+      },
+      "storage": {
+        "evidence": "256GB SSD1TB HDD",
+        "value": "256GB SSD + 1TB HDD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "last_notified_tier": "okay",
+    "last_notified_price": 37000
+  },
+  "1852177510": {
+    "ad_id": "1852177510",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-nanjappa-reddy-colony-bengaluru-iid-1852177510",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 65999
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop used others in nanjappa reddy colony bengaluru",
+    "description_hash": "6a717c0a56c52a1228f097ea8f31926783bae7b00d3f4d4488b4ba88fb6dcfbc",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": null,
+        "value": null
+      },
+      "cpu": {
+        "evidence": "Ryzen 7 3700x",
+        "value": "Ryzen 7 3700x"
+      },
+      "gpu": {
+        "evidence": "Zotac holo amp rtx 3070 8gb",
+        "value": "RTX 3070 8GB"
+      },
+      "ram": {
+        "evidence": "16gb 8x2 3200 mhz xpg gaming",
+        "value": "16GB 3200 MHz"
+      },
+      "storage": {
+        "evidence": "256gb adata legend nvme ssd",
+        "value": "256GB NVMe SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "moderate",
+    "last_notified_tier": "okay",
+    "last_notified_price": 65999
+  },
+  "1852183892": {
+    "ad_id": "1852183892",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-kodihalli-bengaluru-iid-1852183892",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 49999
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop used others in kodihalli bengaluru",
+    "description_hash": "911f444ecf82b06c1a4484ffd91ecfde729ad2833dd54db3065c906955b02d59",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "Everything working properly",
+        "value": "used"
+      },
+      "cpu": {
+        "evidence": "AMD Ryzen 7 5800X3D",
+        "value": "AMD Ryzen 7 5800X3D"
+      },
+      "gpu": {
+        "evidence": "GPU NOT INCLUDED",
+        "value": null
+      },
+      "ram": {
+        "evidence": "16GB DDR4 3600MHz CL16 RAM",
+        "value": "16GB DDR4 3600MHz"
+      },
+      "storage": {
+        "evidence": "WD 500GB NVMe SSD",
+        "value": "500GB NVMe SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "last_notified_tier": "okay",
+    "last_notified_price": 49999
+  },
+  "1852185402": {
+    "ad_id": "1852185402",
+    "url": "https://www.olx.in/item/games-entertainment-c93-high-performance-gaming-and-workstation-pc-in-koramangala-bengaluru-iid-1852185402",
+    "first_seen_at": "2026-08-14T03:46:00.200Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-14T03:46:00.200Z",
+        "price": 55000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "games entertainment c93 high performance gaming and workstation pc in koramangala bengaluru",
+    "description_hash": "9c82651ea771269895729e50e85449164a73df8ff3c12ac76b9d04b35778e414",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "well maintained",
+        "value": "well maintained"
+      },
+      "cpu": {
+        "evidence": null,
+        "value": null
+      },
+      "gpu": {
+        "evidence": "AMD radeon rx vega 64_ 8gb vram",
+        "value": "AMD Radeon RX Vega 64 8GB"
+      },
+      "ram": {
+        "evidence": "32 gb ram",
+        "value": "32GB"
+      },
+      "storage": {
+        "evidence": null,
+        "value": null
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "medium",
+    "description_quality": "lazy",
+    "short_summary": "Bad deal due to missing CPU details and an outdated GPU that fails the user's minimum requirements.",
+    "detailed_summary": "The listing provides minimal details, mentioning only 32GB of RAM and an older AMD Radeon RX Vega 64 GPU. The CPU and storage specifications are completely omitted, which is a major red flag. Based on the user's constraints requiring at least an RTX 3060 or equivalent modern AMD GPU, the Vega 64 falls short. Furthermore, at 55000 INR, this is severely overpriced compared to modern systems in the market that feature newer components like RTX 3060s or RTX 4060s for similar or better value. Therefore, this listing is classified as a bad deal."
+  },
+  "1852187870": {
+    "ad_id": "1852187870",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-subbannaiah-palya-bengaluru-iid-1852187870",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 70000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop used others in subbannaiah palya bengaluru",
+    "description_hash": "e92515aa979f5683f31e9939557b1f9c284c9b7bc0f8a8309c0012a2015a8fac",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": null,
+        "value": null
+      },
+      "cpu": {
+        "evidence": "12TH GEN INTEL I5",
+        "value": "12th Gen Intel Core i5"
+      },
+      "gpu": {
+        "evidence": "RTX 4060 8GB GDDR6 RAM",
+        "value": "RTX 4060 8GB"
+      },
+      "ram": {
+        "evidence": "16GB DDR5 RAM",
+        "value": "16GB DDR5"
+      },
+      "storage": {
+        "evidence": "1TB SSD",
+        "value": "1TB SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "lazy",
+    "last_notified_tier": "okay",
+    "last_notified_price": 70000
+  },
+  "1852286649": {
+    "ad_id": "1852286649",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-hosapalya-bengaluru-iid-1852286649",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 37000
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 computerdesktop used others in hosapalya bengaluru",
+    "description_hash": "f15335733cc64a28f90832f1d0091bfa91169aadf34e139693f056f2ba3b82f9",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": "3 years old",
+        "value": 36
+      },
+      "condition": {
+        "evidence": "flawless working.Recently fult cleaned and thermal paste changed",
+        "value": "used, flawless working"
+      },
+      "cpu": {
+        "evidence": "Core i5 processor",
+        "value": "Intel Core i5"
+      },
+      "gpu": {
+        "evidence": "zotac em1060k mini",
+        "value": "Zotac Mini GTX 1060"
+      },
+      "ram": {
+        "evidence": "12gb ram",
+        "value": "12GB"
+      },
+      "storage": {
+        "evidence": "500gb nvme",
+        "value": "500GB NVMe SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "low",
+    "description_quality": "moderate"
+  },
+  "1852301351": {
+    "ad_id": "1852301351",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-kengeri-bengaluru-iid-1852301351",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 75000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 computerdesktop used others in kengeri bengaluru",
+    "description_hash": "321b540dd1506158ba6fee170836f098bdea850da930540d93a2b8272ce51891",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": "Bought it before 1 year",
+        "value": 12
+      },
+      "condition": {
+        "evidence": "good condition including every extra cables screws etc",
+        "value": "good"
+      },
+      "cpu": {
+        "evidence": "And ryzen 5 3600",
+        "value": "AMD Ryzen 5 3600"
+      },
+      "gpu": {
+        "evidence": "AMD rx 6600 (Asus dual fan oc)",
+        "value": "AMD RX 6600"
+      },
+      "ram": {
+        "evidence": "Xpg ARGB gaming ram 3200mhz 8gb x 2",
+        "value": "16GB DDR4 3200MHz"
+      },
+      "storage": {
+        "evidence": "Samsung nvme supercharged SSD 512gb",
+        "value": "512GB Samsung NVMe SSD"
+      },
+      "warranty": {
+        "evidence": "GPU has 5 years warranty with box",
+        "value": "GPU has warranty remaining"
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "last_notified_tier": "okay",
+    "last_notified_price": 75000
+  },
+  "1852335998": {
+    "ad_id": "1852335998",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-used-others-in-yelahanka-bengaluru-iid-1852335998",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 115000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "computers laptops c1505 used others in yelahanka bengaluru",
+    "description_hash": "02ce3a61bdaa3ef37e9ce06c53ffdd5a6dbdad723339dd8a44e0fd1eb1a97563",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "used others",
+        "value": "used"
+      },
+      "cpu": {
+        "evidence": "Processor: AMD Ryzen 5 4500",
+        "value": "AMD Ryzen 5 4500"
+      },
+      "gpu": {
+        "evidence": "Graphics Card: NVIDIA GeForce RTX 4060 8GB GDDR6",
+        "value": "NVIDIA GeForce RTX 4060 8GB GDDR6"
+      },
+      "ram": {
+        "evidence": "RAM: 48GB DDR4 3200MHz (16GB × 3) SAMSUNG",
+        "value": "48GB DDR4 3200MHz (16GB x 3) SAMSUNG"
+      },
+      "storage": {
+        "evidence": "Storage:• 256GB Crucial M.2 NVMe SSD• 256GB Samsung SSD × 2• 512GB Seagate HDD",
+        "value": "256GB Crucial M.2 NVMe SSD + 512GB (2x256GB) Samsung SSD + 512GB Seagate HDD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "low",
+    "description_quality": "detailed"
+  },
+  "1852425511": {
+    "ad_id": "1852425511",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-dell-in-drrajkumar-road-bengaluru-iid-1852425511",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 11999
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "title": "computers laptops c1505 computerdesktop used dell in drrajkumar road bengaluru",
+    "description_hash": "3dbb5b8b79ecfd2079726862e0eb84343058517bc1ec8999077aecbef81b0a6c",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "used dell",
+        "value": "used"
+      },
+      "cpu": {
+        "evidence": "Xeon e3 1240 v3 ( 4 cores + 8 threads )",
+        "value": "Xeon e3 1240 v3"
+      },
+      "gpu": {
+        "evidence": "Gt 710 2gb graphics card",
+        "value": "Gt 710 2gb"
+      },
+      "ram": {
+        "evidence": "8gb ram",
+        "value": "8gb"
+      },
+      "storage": {
+        "evidence": "128gb ssd+ 500hdd",
+        "value": "128gb ssd+ 500hdd"
+      },
+      "warranty": {
+        "evidence": "with warranty",
+        "value": "with warranty"
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "moderate",
+    "last_notified_tier": "okay",
+    "last_notified_price": 11999
+  },
+  "1852440279": {
+    "ad_id": "1852440279",
+    "url": "https://www.olx.in/item/games-entertainment-c93-intel-core-5-rtx-5050-mini-gaming-pc-in-koramangala-bengaluru-iid-1852440279",
+    "first_seen_at": "2026-08-14T03:46:00.200Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-14T03:46:00.200Z",
+        "price": 100000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "games entertainment c93 intel core 5 rtx 5050 mini gaming pc in koramangala bengaluru",
+    "description_hash": "da505e1c529e531fa4922adaa11c4e4f28a3db2038faa3fb63f3739e19ac9578",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": null,
+        "value": null
+      },
+      "cpu": {
+        "evidence": "intel core 5",
+        "value": "Intel Core i5"
+      },
+      "gpu": {
+        "evidence": "rtx 5050",
+        "value": "NVIDIA RTX 5050"
+      },
+      "ram": {
+        "evidence": null,
+        "value": null
+      },
+      "storage": {
+        "evidence": null,
+        "value": null
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "high",
+    "description_quality": "lazy",
+    "short_summary": "Suspicious listing with a fake GPU model and almost no specs.",
+    "detailed_summary": "This listing from Koramangala is extremely suspicious. It claims to feature an 'rtx 5050', which does not exist in the market at this time. Furthermore, the description is exceptionally lazy, providing zero details about RAM, storage, or the exact CPU generation beyond a vague 'intel core 5'. Given the user requirements and strict constraints against fabricated specs, this listing is classified as a bad deal with a high scam risk."
+  },
+  "1852474690": {
+    "ad_id": "1852474690",
+    "url": "https://www.olx.in/item/games-entertainment-c93-lenovo-gen-2-portable-gaming-pc-eclipse-black-88-inch-in-chickpet-bengaluru-iid-1852474690",
+    "first_seen_at": "2026-08-14T03:46:00.200Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-14T03:46:00.200Z",
+        "price": 45000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-14T03:56:56.482Z",
+    "title": "games entertainment c93 lenovo gen 2 portable gaming pc eclipse black 88 inch in chickpet bengaluru",
+    "description_hash": "96ab24039c7075bb5cb79d79958678e0ce78d198a53f686ac088b3a572da089f",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "USED",
+        "value": "USED"
+      },
+      "cpu": {
+        "evidence": null,
+        "value": null
+      },
+      "gpu": {
+        "evidence": null,
+        "value": null
+      },
+      "ram": {
+        "evidence": null,
+        "value": null
+      },
+      "storage": {
+        "evidence": null,
+        "value": null
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "medium",
+    "description_quality": "lazy",
+    "short_summary": "Bad deal due to a lack of specifications and non-compliance with the minimum requirement of a dedicated GPU.",
+    "detailed_summary": "This listing is extremely sparse, only mentioning it is a used Lenovo portable gaming PC. Crucial components like the CPU, RAM, storage, and importantly, the dedicated GPU (which must be at least an RTX 3060 or equivalent AMD per user constraints) are entirely unmentioned. Following strict rules, these specs are marked as null. Because a dedicated GPU is not explicitly stated and required specifications are absent, this listing is automatically rated as a bad deal with medium scam risk due to missing information."
+  }
+}

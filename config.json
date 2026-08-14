@@ -1,0 +1,15 @@
+{
+  "searches": [
+    {
+      "name": "Bengaluru Gaming PC",
+      "location_slug": "bengaluru_g4058803",
+      "search_term": "gaming-pc",
+      "price_min": 45000,
+      "price_max": 120000,
+      "constraints": "a gpu is a must. atleast nvidia rtx 3060 or higher in amd, ram must be atleast 16gb. cpu also should be capable for the gpu"
+    }
+  ],
+  "poll_interval_hours": 2,
+  "max_load_more_clicks": 10,
+  "discount_threshold_percent": 8
+}

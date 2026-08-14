@@ -1,0 +1,57 @@
+name: OLX Deal Tracker
+
+on:
+  schedule:
+    - cron: '0 */2 * * *' # Every 2 hours
+  workflow_dispatch: # Allow manual trigger
+
+concurrency:
+  group: olx-tracker
+  cancel-in-progress: false
+
+jobs:
+  run-tracker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Install Playwright Browsers
+        run: npx playwright install chromium --with-deps
+
+      - name: Run Tracker
+        run: node src/index.js
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          EMAIL_API_KEY: ${{ secrets.EMAIL_API_KEY }}
+          TO_EMAIL: ${{ secrets.TO_EMAIL }}
+
+      - name: Commit data.json changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data.json
+          git commit -m "chore: update data.json [skip ci]" || echo "No changes to commit"
+          git push
+
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "Workflow failed. Sending failure notification."
+          # If TELEGRAM_BOT_TOKEN is available, send a message.
+          if [ -n "${{ secrets.TELEGRAM_BOT_TOKEN }}" ]; then
+            curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage \
+              -H "Content-Type: application/json" \
+              -d '{"chat_id": "${{ secrets.TELEGRAM_CHAT_ID }}", "text": "❌ <b>GitHub Actions Workflow Failed</b>\nThe OLX Tracker workflow failed. Please check the logs.", "parse_mode": "HTML"}'
+          fi
