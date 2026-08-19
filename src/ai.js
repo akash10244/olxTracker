@@ -59,18 +59,12 @@ Rules:
    knowledge of GPU/CPU market prices — you do not reliably know
    current secondhand pricing in this specific city and currency,
    and prices move quickly.
-4. If the description is short, generic, or lacks concrete detail,
-   set description_quality to "lazy" and lower specs_confidence and
-   deal_confidence accordingly. Do not compensate for a thin
-   description by filling in assumed details.
-5. If uncertain between two classifications, prefer the more
-   conservative one (lower deal tier, lower confidence) rather than
-   an optimistic guess. A missed good deal costs nothing; a false
-   "steal" alert wastes the user's trust and time.
-6. Output ONLY the JSON object matching the provided schema. No
-   preamble, no markdown, no explanation outside the schema fields.
+4. If the description lacks concrete details about CORE components (GPU, CPU, RAM, Storage), set description_quality to "lazy" and lower specs_confidence and deal_confidence accordingly. Do not compensate by guessing.
+5. NON-CORE details (warranty, age, condition) are considered low-priority "bonuses". If they are missing, it is completely acceptable. Do NOT lower the deal_tier, deal_confidence, or mark the description as "lazy" just because warranty, age, or condition are omitted, as long as the core hardware specs are clearly stated.
+6. If uncertain between two classifications, prefer the more conservative one rather than an optimistic guess.
+7. Output ONLY the JSON object matching the provided schema. No preamble, no markdown, no explanation outside the schema fields.
 
-${constraints ? `7. USER CONSTRAINTS (CRITICAL): The user has specified the following minimum requirements for a PC to be considered a deal: "${constraints}". If the listing does NOT clearly meet these requirements (or if a crucial component like a dedicated GPU is entirely missing), you MUST strictly classify the deal_tier as "bad".` : ''}`;
+${constraints ? `8. USER CONSTRAINTS (CRITICAL): The user has specified the following minimum requirements for a PC to be considered a deal: "${constraints}". If the listing does NOT clearly meet these requirements (or if a crucial component like a dedicated GPU, CPU, RAM, or Storage is entirely missing), you MUST strictly classify the deal_tier as "bad".` : ''}`;
 
   const contextStr = activeListingsContext.length > 0 
     ? activeListingsContext.map(l => `- Title: ${l.title} | Price: ${l.price} | Specs: ${JSON.stringify(l.extracted_specs || {})}`).join('\n')
