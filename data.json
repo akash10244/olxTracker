@@ -11,7 +11,7 @@
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 computerdesktop used others in laggere bengaluru",
     "description_hash": "3a56ff5c24dc28b954cb22b5d81c4b323874f5d9e17db2ebe1a7d0f892996c1a",
     "scam_risk": "low",
@@ -163,7 +163,7 @@
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 computerdesktop used others in jigani bengaluru",
     "description_hash": "db9ee6326df8fd096aec53b3f6f0f8059582f63c0734c992b1c7a18b9cc08507",
     "extracted_specs": {
@@ -214,7 +214,7 @@
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 computerdesktop used lenovo in banashankari bengaluru",
     "description_hash": "bcea1e71ee4738293ebfc5973e3ba712e95ce6a27ca0bdb9f74f55ea2e59a19b",
     "extracted_specs": {
@@ -363,7 +363,7 @@
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 computerdesktop used others in hosapalya bengaluru",
     "description_hash": "2fd291c16c82bd6b9efef5809bfb3bdecf2178516465ec1fe24f8b729de34a3d",
     "extracted_specs": {
@@ -414,7 +414,7 @@
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 computerdesktop used others in sangam enclave bengaluru",
     "description_hash": "c05e0aad7a275198e9fa9e30527700044207b86aa50e04acf7d7058aec99711f",
     "extracted_specs": {
@@ -716,7 +716,7 @@
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 computerdesktop used others in jp nagar phase 1 bengaluru",
     "description_hash": "1d0d4a56bc4dfbcd20a7d0f0c24d4b8aefef65e83213d8516fd3307b8a021dcd",
     "extracted_specs": {
@@ -811,7 +811,7 @@
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 computerdesktop used others in whitefield bengaluru",
     "description_hash": "1cf798c3589d20387707d30368b83f43a096e6a9ec06eb9de1c12f73a2bf741f",
     "extracted_specs": {
@@ -860,9 +860,9 @@
         "price": 85000
       }
     ],
-    "active": true,
-    "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-17T11:01:41.856Z",
     "title": "computers laptops c1505 computerdesktop used others in banaswadi subbanapalya bengaluru",
     "description_hash": "9911db50bf1a1c4e73ddcc43eaff323cfe9ddaf1358321ace7a3d34d3badbf4e",
     "extracted_specs": {
@@ -911,7 +911,7 @@
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 computerdesktop used others in nice road bengaluru",
     "description_hash": "0d9cba922540c72ffaa0051dbf55a9905801e53922ba4e37e044fd0af1ed5c3e",
     "extracted_specs": {
@@ -960,7 +960,7 @@
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "games entertainment c93 ryzen 5 7500f am5 gaming pc in bangalore airport area bengaluru",
     "description_hash": "fefb646d35ee91a1f995ec11536e2bb19a44e7e4c848edd4551b2b4c771b94a6",
     "extracted_specs": {
@@ -1007,13 +1007,76 @@
       {
         "timestamp": "2026-08-14T07:43:11.346Z",
         "price": 88000
+      },
+      {
+        "timestamp": "2026-08-19T11:01:47.428Z",
+        "price": 96000
       }
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 laptop used others in classic paradise layout bengaluru",
-    "description_hash": "7e6a8aae6428cf2ce16fc980ae4c2ebbf287685ac1fc849f355a40878f6ecc0c",
+    "description_hash": "106ad5270d7eeaa042ad273cab83cdbdc76d815ff04e9d66a7366916f1de3793",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": "10 months Old.",
+        "value": 10
+      },
+      "condition": {
+        "evidence": "Like New",
+        "value": "Like New"
+      },
+      "cpu": {
+        "evidence": "Ryzen 5 ( 8600G ) Processor",
+        "value": "AMD Ryzen 5 8600G"
+      },
+      "gpu": {
+        "evidence": "GRAPHIS CARD MSI OG 6GB DDR6 (DUAL-RTX 3050-06G)",
+        "value": "MSI RTX 3050 6GB"
+      },
+      "ram": {
+        "evidence": "Tforce DDR5 RAM 16GB  6000MHZ",
+        "value": "16GB DDR5 6000MHz"
+      },
+      "storage": {
+        "evidence": "Crucial P3 Plus SSD 500 GB NVMe M.2",
+        "value": "500GB NVMe M.2 SSD"
+      },
+      "warranty": {
+        "evidence": "Still Under warranty",
+        "value": "under warranty"
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "short_summary": "Complete setup with dual displays and peripherals, but fails the user's minimum GPU requirement (RTX 3050 instead of RTX 3060+).",
+    "detailed_summary": "The listing includes a comprehensive breakdown of components with current prices, two monitors (LG UltraGear 27\" and Acer Nitro 27\"), and peripherals (Razor mouse and mechanical keyboard). However, the system is built around an RTX 3050 6GB graphics card. Because the user constraints strictly require an RTX 3060 or higher, this listing fails the criteria and must be rated as a bad deal despite the inclusion of monitors and peripherals."
+  },
+  "1851023830": {
+    "ad_id": "1851023830",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-laptop-used-others-in-classic-paradise-layout-bengaluru-iid-1851023830",
+    "first_seen_at": "2026-08-13T21:28:14.162Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-13T21:28:14.162Z",
+        "price": 82000
+      },
+      {
+        "timestamp": "2026-08-16T08:01:29.605Z",
+        "price": 86000
+      },
+      {
+        "timestamp": "2026-08-19T11:01:47.428Z",
+        "price": 95000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
+    "title": "computers laptops c1505 laptop used others in classic paradise layout bengaluru",
+    "description_hash": "af256a2ccef96c078901a1f4d7efa446ffd723b47cadbb651f3133bcf7dcf72b",
     "extracted_specs": {
       "age_months": {
         "evidence": "10 months Old",
@@ -1037,69 +1100,20 @@
       },
       "storage": {
         "evidence": "Crucial P3 Plus SSD 500 GB NVMe M.2",
-        "value": "500GB NVMe SSD"
+        "value": "500GB NVMe M.2 SSD"
       },
       "warranty": {
-        "evidence": "Gaming PC complete Set-up under warranty with Bill",
-        "value": "Under warranty with bill"
+        "evidence": "Under warranty with bill all Accessories",
+        "value": "Under warranty"
       }
     },
     "deal_tier": "bad",
     "scam_risk": "low",
     "description_quality": "detailed",
-    "short_summary": "A full setup with monitor and peripherals, but fails the user's minimum GPU requirement of an RTX 3060.",
-    "detailed_summary": "The listing includes a comprehensive breakdown of components featuring a Ryzen 5 8600G processor, 16GB DDR5 RAM, 500GB NVMe SSD, and an MSI RTX 3050 6GB GPU alongside a 27-inch 180Hz LG UltraGear display and peripherals for 88000 INR. While components are explicitly detailed and under warranty, the user constraint strictly requires an RTX 3060 or equivalent/higher AMD card. Because this system only includes an RTX 3050 6GB, it must be classified as a bad deal according to the user's explicit constraints."
-  },
-  "1851023830": {
-    "ad_id": "1851023830",
-    "url": "https://www.olx.in/item/computers-laptops-c1505-laptop-used-others-in-classic-paradise-layout-bengaluru-iid-1851023830",
-    "first_seen_at": "2026-08-13T21:28:14.162Z",
-    "price_history": [
-      {
-        "timestamp": "2026-08-13T21:28:14.162Z",
-        "price": 82000
-      }
-    ],
-    "active": true,
-    "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
-    "title": "computers laptops c1505 laptop used others in classic paradise layout bengaluru",
-    "description_hash": "e4e07336a3a3d25c8bde0f95480e67d55b29db9b045029db3ec707519750d79e",
-    "extracted_specs": {
-      "age_months": {
-        "evidence": null,
-        "value": null
-      },
-      "condition": {
-        "evidence": "Like New",
-        "value": "Like New"
-      },
-      "cpu": {
-        "evidence": "Ryzen 5 ( 8600G ) Processor",
-        "value": "AMD Ryzen 5 8600G"
-      },
-      "gpu": {
-        "evidence": "GRAPHIS CARD MSI OG 6GB DDR6 (DUAL-RTX 3050-06G)",
-        "value": "MSI RTX 3050 6GB"
-      },
-      "ram": {
-        "evidence": "Tforce DDR5 RAM 16GB 2  6000MHZ",
-        "value": "32GB (2x16GB) DDR5 6000MHz"
-      },
-      "storage": {
-        "evidence": "WD Blue SSD 500 GB NVMe",
-        "value": "500GB NVMe SSD"
-      },
-      "warranty": {
-        "evidence": "Gaming PC complete Set-up under warranty with Bill",
-        "value": "Under warranty with bill"
-      }
-    },
-    "deal_tier": "okay",
-    "scam_risk": "low",
-    "description_quality": "detailed",
     "last_notified_tier": "okay",
-    "last_notified_price": 82000
+    "last_notified_price": 82000,
+    "short_summary": "Complete setup with dual monitors and DDR5, but fails user GPU requirements and is overpriced.",
+    "detailed_summary": "The listing provides a very detailed breakdown of components including an AMD Ryzen 5 8600G, 16GB DDR5 RAM, and dual monitors (LG UltraGear 27\" and Acer Nitro 27\"). However, the user's strict constraints state that an RTX 3060 or higher is an absolute must. This system comes with an MSI RTX 3050 6GB, failing the minimum GPU requirement, which forces a 'bad' deal classification according to system instructions. Furthermore, at 95,000 INR, the pricing is heavily inflated compared to local market standards for similar hardware."
   },
   "1851050771": {
     "ad_id": "1851050771",
@@ -1164,7 +1178,7 @@
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 computerdesktop used others in btm layout stage 4 bengaluru",
     "description_hash": "1eaff7617b109a6d1ff38964aed0dea012c59a7cc13c4215b3ddec30972e1ea6",
     "extracted_specs": {
@@ -1209,13 +1223,17 @@
       {
         "timestamp": "2026-08-13T21:28:14.162Z",
         "price": 125000
+      },
+      {
+        "timestamp": "2026-08-19T14:03:12.291Z",
+        "price": 115000
       }
     ],
-    "active": false,
-    "missed_runs": 2,
-    "last_seen_at": "2026-08-13T22:04:03.621Z",
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 computerdesktop in vadarpalya bengaluru",
-    "description_hash": "5221e609760994c7082e580333d57ad6b37521128d31fe30137a8103bc1b6171",
+    "description_hash": "9d60f941f5b836f2cc246233109e3efa023f9a8a29896d374f1619cf6d3a9258",
     "extracted_specs": {
       "age_months": {
         "evidence": "1 year old",
@@ -1231,24 +1249,28 @@
       },
       "gpu": {
         "evidence": "GPU: Inno3D GeForce RTX 4070 Twin X2 (12GB)",
-        "value": "Inno3D GeForce RTX 4070 Twin X2 (12GB)"
+        "value": "NVIDIA RTX 4070 12GB"
       },
       "ram": {
         "evidence": "RAM: Corsair Vengeance DDR5 32GB (1x32GB, 5200MHz)",
-        "value": "Corsair Vengeance DDR5 32GB (1x32GB, 5200MHz)"
+        "value": "32GB DDR5"
       },
       "storage": {
-        "evidence": "SSD: Crucial P3 Plus 1TB PCIe 4.0 NVMe M.2 (157 power-on hours + 100% Health)HDD: Seagate 1TB SATA ( 164 power-on hours + perfect health)",
-        "value": "1TB NVMe SSD + 1TB HDD"
+        "evidence": "SSD: HP SSD EX900 Plus M.2 NVMe 512GB HDD: Seagate 1TB SATA",
+        "value": "512GB NVMe SSD + 1TB HDD"
       },
       "warranty": {
-        "evidence": "no warranty",
+        "evidence": "no bill & no warranty",
         "value": "no warranty"
       }
     },
-    "deal_tier": "bad",
+    "deal_tier": "okay",
     "scam_risk": "low",
-    "description_quality": "detailed"
+    "description_quality": "detailed",
+    "short_summary": "Solid build with an RTX 4070 and DDR5 RAM, but lacks warranty and flexible pricing.",
+    "detailed_summary": "The listing is very detailed, explicitly providing components like the i5-12400F, RTX 4070 12GB, 32GB DDR5 RAM, and proper power supply specifications. It satisfies the user constraints by including an RTX 3060-equivalent or higher GPU and 16GB+ RAM. However, the seller notes there is no bill and no warranty, and the price of 115000 INR is explicitly fixed. Given the used market without official store backing, it falls into the okay category rather than being a steal.",
+    "last_notified_tier": "okay",
+    "last_notified_price": 115000
   },
   "1851186593": {
     "ad_id": "1851186593",
@@ -1258,28 +1280,33 @@
       {
         "timestamp": "2026-08-13T21:28:14.162Z",
         "price": 60000
+      },
+      {
+        "timestamp": "2026-08-16T14:01:30.652Z",
+        "price": 50000
       }
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 computerdesktop used others in venkateshapuram bengaluru",
-    "description_hash": "79140e4e975f23e65846aa89e524d204cece45a61573f3ae86bc67281b61447d",
+    "description_hash": "d4063dd2d665a8c5980c3c72fa4a53929d5140c4a6f9e6f35a4b985d03a3ef45",
     "extracted_specs": {
       "age_months": {
         "evidence": null,
         "value": null
       },
       "condition": {
+        "evidence": null,
         "value": null
       },
       "cpu": {
         "evidence": "Ryzen 5 5500",
-        "value": "Ryzen 5 5500"
+        "value": "AMD Ryzen 5 5500"
       },
       "gpu": {
         "evidence": "GTX 1660super 6gb",
-        "value": "GTX 1660 Super"
+        "value": "NVIDIA GTX 1660 Super"
       },
       "ram": {
         "evidence": "32gb ram",
@@ -1295,8 +1322,10 @@
       }
     },
     "deal_tier": "bad",
-    "scam_risk": "medium",
-    "description_quality": "lazy"
+    "scam_risk": "low",
+    "description_quality": "lazy",
+    "short_summary": "Bad deal due to a sub-par GPU (GTX 1660 Super) failing the user's minimum requirements.",
+    "detailed_summary": "The listing features an AMD Ryzen 5 5500, 32GB RAM, a 256GB SSD, and a GTX 1660 Super 6GB. However, the user specifically mandates at least an NVIDIA RTX 3060 or equivalent AMD card. The GTX 1660 Super falls well short of this requirement. Furthermore, at 50,000 INR, the system is drastically overpriced compared to active listings featuring modern RTX 30-series or 40-series cards. Therefore, the deal tier is strictly classified as bad."
   },
   "1851272312": {
     "ad_id": "1851272312",
@@ -1412,7 +1441,7 @@
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 computerdesktop used others in jp nagar bengaluru",
     "description_hash": "28fe253e2e361da0c0cc768715a6641cc672f3765cda8f89351a9dfc5f4c917a",
     "extracted_specs": {
@@ -1512,7 +1541,7 @@
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 computerdesktop used others in nanjappa reddy colony bengaluru",
     "description_hash": "5ad596138e7f0485d32ee46c84c062eecf3e117b01dcdd6db5f09e9c56aa3a04",
     "extracted_specs": {
@@ -1612,7 +1641,7 @@
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "games entertainment c93 custom rgb gaming desktop pc intel core i7 32gb ssd hdd 1tb nvidia rtx in singanahalli hirehally industrial area",
     "description_hash": "fe2f33f35d25a9b9b3768626fda4e69b47a26a05f261a57cab8e50b9afe6b571",
     "extracted_specs": {
@@ -1659,11 +1688,15 @@
       {
         "timestamp": "2026-08-13T21:28:14.162Z",
         "price": 70000
+      },
+      {
+        "timestamp": "2026-08-16T06:01:20.409Z",
+        "price": 55000
       }
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 computerdesktop used others in mehboob nagar bengaluru",
     "description_hash": "bb4897c1fb06859342e3b8e446a42c09f4fe29e5ef47dfab19fde27bcb1a33c5",
     "extracted_specs": {
@@ -1672,23 +1705,23 @@
         "value": null
       },
       "condition": {
-        "evidence": "There is no single issue with it just a bit dusty",
-        "value": "No issues, slightly dusty"
+        "evidence": null,
+        "value": null
       },
       "cpu": {
-        "evidence": "Cpu : Ryzen 7 2700",
+        "evidence": "Ryzen 7 2700",
         "value": "AMD Ryzen 7 2700"
       },
       "gpu": {
-        "evidence": "Gpu : Gtx Galax 1650 Super Oc 4gb",
-        "value": "NVIDIA GeForce GTX 1650 Super OC 4GB"
+        "evidence": "Gtx Galax 1650 Super Oc 4gb",
+        "value": "NVIDIA GTX 1650 Super 4GB"
       },
       "ram": {
-        "evidence": "Ram : Corsair Vegance 8gb ddr4 3200Mhz",
-        "value": "8GB Corsair Vengeance DDR4 3200MHz"
+        "evidence": "Corsair Vegance 8gb ddr4 3200Mhz",
+        "value": "8GB DDR4 3200MHz"
       },
       "storage": {
-        "evidence": "Ssd : 221gb and 146gb Hdd",
+        "evidence": "221gb and 146gb Hdd",
         "value": "221GB SSD + 146GB HDD"
       },
       "warranty": {
@@ -1698,7 +1731,9 @@
     },
     "deal_tier": "bad",
     "scam_risk": "low",
-    "description_quality": "moderate"
+    "description_quality": "moderate",
+    "short_summary": "Bad deal due to significantly lower specs than required (GTX 1650 Super and 8GB RAM).",
+    "detailed_summary": "The user explicitly mandates a GPU equivalent to an NVIDIA RTX 3060 or higher (or equivalent AMD) and at least 16GB of RAM. This listing only provides a GTX 1650 Super and 8GB of RAM, combined with an older Ryzen 7 2700. Therefore, per the user constraints, it must be classified as a bad deal regardless of price comparisons, as it completely misses the minimum hardware tier requirement."
   },
   "1851963146": {
     "ad_id": "1851963146",
@@ -1763,7 +1798,7 @@
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 computerdesktop in majestic bengaluru",
     "description_hash": "0ef96fd1934627fd255d3e092015973de51bb1143eb71c0be312b2a93be6b095",
     "extracted_specs": {
@@ -1861,11 +1896,15 @@
       {
         "timestamp": "2026-08-13T21:28:14.162Z",
         "price": 68000
+      },
+      {
+        "timestamp": "2026-08-15T13:01:28.001Z",
+        "price": 65000
       }
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 computerdesktop used others in vadarpalya bengaluru",
     "description_hash": "d2fca671d7b2637e3799808c8fa8ba0ea50ac24043912d81ee8c505941a7177a",
     "extracted_specs": {
@@ -1875,22 +1914,22 @@
       },
       "condition": {
         "evidence": "well-maintained, fully functional and runs flawlessly",
-        "value": "well-maintained, fully functional and runs flawlessly"
+        "value": "well-maintained, fully functional"
       },
       "cpu": {
-        "evidence": "CPU: Intel Core i5-12400F (6 Cores & 12 Threads)",
+        "evidence": "Intel Core i5-12400F (6 Cores & 12 Threads)",
         "value": "Intel Core i5-12400F"
       },
       "gpu": {
-        "evidence": "GPU: Gigabyte GeForce RTX 3060 Ti Gaming OC 8GB (Windforce, RGB Fusion 2.0)",
-        "value": "Gigabyte GeForce RTX 3060 Ti Gaming OC 8GB"
+        "evidence": "Gigabyte GeForce RTX 3060 Ti Gaming OC 8GB (Windforce, RGB Fusion 2.0)",
+        "value": "Gigabyte GeForce RTX 3060 Ti 8GB"
       },
       "ram": {
-        "evidence": "RAM: 16GB (8gb G.Skill Ripjaws X & 8gb Adata XPG DDR4)",
-        "value": "16GB (8gb G.Skill Ripjaws X & 8gb Adata XPG DDR4)"
+        "evidence": "16GB (8gb G.Skill Ripjaws X & 8gb Adata XPG DDR4)",
+        "value": "16GB (8x2) DDR4"
       },
       "storage": {
-        "evidence": "Storage: 500GB Samsung NVMe SSD (100% Health)",
+        "evidence": "500GB Samsung NVMe SSD (100% Health)",
         "value": "500GB Samsung NVMe SSD"
       },
       "warranty": {
@@ -1898,11 +1937,13 @@
         "value": null
       }
     },
-    "deal_tier": "okay",
+    "deal_tier": "good",
     "scam_risk": "low",
     "description_quality": "detailed",
-    "last_notified_tier": "okay",
-    "last_notified_price": 68000
+    "last_notified_tier": "good",
+    "last_notified_price": 65000,
+    "short_summary": "A solid, well-detailed PC build featuring an RTX 3060 Ti and i5-12400F that meets all requirements.",
+    "detailed_summary": "The listing provides detailed and transparent specifications including exact models for the CPU, GPU, motherboard, RAM, storage, case, and power supply. The components (Intel Core i5-12400F and RTX 3060 Ti with 16GB RAM) comfortably satisfy the user's hardware constraints of having at least an RTX 3060 equivalent and 16GB of RAM. At 65000 INR, the price is fair for a complete system with branded quality components like the Asus AP201 case and Samsung NVMe, though not an absolute steal. Testing is offered before purchase, keeping scam risk low."
   },
   "1852090011": {
     "ad_id": "1852090011",
@@ -1912,11 +1953,15 @@
       {
         "timestamp": "2026-08-13T21:28:14.162Z",
         "price": 73000
+      },
+      {
+        "timestamp": "2026-08-16T05:01:25.780Z",
+        "price": 72000
       }
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 computerdesktop used others in koramangala bengaluru",
     "description_hash": "45ed037aeba74d2afc7b48ae27386dff4484bd85b4db060014b790b7ae7ff6df",
     "extracted_specs": {
@@ -1934,11 +1979,11 @@
       },
       "gpu": {
         "evidence": "MSI RTX 3060 12gb Vram Graphics card",
-        "value": "MSI NVIDIA GeForce RTX 3060 12GB"
+        "value": "MSI RTX 3060 12GB"
       },
       "ram": {
         "evidence": "32gb gskill RGB ddr4 Ram",
-        "value": "32GB G.Skill RGB DDR4"
+        "value": "32GB DDR4"
       },
       "storage": {
         "evidence": "1tb nvme m.2 ssd1tb hdd storage",
@@ -1949,9 +1994,13 @@
         "value": null
       }
     },
-    "deal_tier": "bad",
+    "deal_tier": "okay",
     "scam_risk": "low",
-    "description_quality": "detailed"
+    "description_quality": "moderate",
+    "short_summary": "Decent mid-to-high tier hardware mix, but pricing is on the higher side.",
+    "detailed_summary": "The listing clearly outlines a solid combination of components: an Intel i7-10700K processor, an MSI RTX 3060 12GB VRAM graphics card, 32GB of G.Skill RGB DDR4 RAM, a Gigabyte Z590 UD motherboard, a 750W 80+ Gold power supply, a 240mm liquid cooler, and 2TB of combined storage. While the hardware meets the user requirements nicely (RTX 3060 and 16GB+ RAM), the asking price of 72,000 INR sits on the higher side for a 10th-gen Intel setup, keeping it at an 'okay' deal tier.",
+    "last_notified_tier": "okay",
+    "last_notified_price": 72000
   },
   "1852135591": {
     "ad_id": "1852135591",
@@ -2061,13 +2110,21 @@
       {
         "timestamp": "2026-08-13T21:28:14.162Z",
         "price": 65999
+      },
+      {
+        "timestamp": "2026-08-15T04:01:33.925Z",
+        "price": 69999
+      },
+      {
+        "timestamp": "2026-08-17T13:01:28.341Z",
+        "price": 65000
       }
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 computerdesktop used others in nanjappa reddy colony bengaluru",
-    "description_hash": "6a717c0a56c52a1228f097ea8f31926783bae7b00d3f4d4488b4ba88fb6dcfbc",
+    "description_hash": "111082efef3c3158eb0b768fe65e14b3f442f8dc5e31bcc817d56ad2d6a16c9e",
     "extracted_specs": {
       "age_months": {
         "evidence": null,
@@ -2078,20 +2135,20 @@
         "value": null
       },
       "cpu": {
-        "evidence": "Ryzen 7 3700x",
-        "value": "Ryzen 7 3700x"
+        "evidence": "Processor     Ryzen 7 3700x",
+        "value": "AMD Ryzen 7 3700X"
       },
       "gpu": {
-        "evidence": "Zotac holo amp rtx 3070 8gb",
-        "value": "RTX 3070 8GB"
+        "evidence": "Graphics card       Zotac holo amp rtx 3070 8gb",
+        "value": "NVIDIA RTX 3070 8GB"
       },
       "ram": {
-        "evidence": "16gb 8x2 3200 mhz xpg gaming",
-        "value": "16GB 3200 MHz"
+        "evidence": "Ram     16gb 8x2 3200 mhz xpg gaming",
+        "value": "16GB 3200MHz"
       },
       "storage": {
-        "evidence": "256gb adata legend nvme ssd",
-        "value": "256GB NVMe SSD"
+        "evidence": "Ssd     500gb ssd",
+        "value": "500GB SSD"
       },
       "warranty": {
         "evidence": null,
@@ -2100,9 +2157,11 @@
     },
     "deal_tier": "okay",
     "scam_risk": "low",
-    "description_quality": "moderate",
+    "description_quality": "lazy",
     "last_notified_tier": "okay",
-    "last_notified_price": 65999
+    "last_notified_price": 65999,
+    "short_summary": "Decent hardware specifications with an RTX 3070 and Ryzen 7 3700X, though lacking in listing detail.",
+    "detailed_summary": "The listing provides explicit specifications containing a capable CPU and GPU combination (AMD Ryzen 7 3700X and Zotac RTX 3070 8GB) alongside 16GB RAM and a 500GB SSD. This meets the minimum user constraint requirements for a dedicated GPU of RTX 3060 tier or higher, and adequate RAM. However, the description is quite sparse (lazy) with no mentions of condition, age, or warranty, meaning the buyer should thoroughly test the system before purchase."
   },
   "1852183892": {
     "ad_id": "1852183892",
@@ -2114,9 +2173,9 @@
         "price": 49999
       }
     ],
-    "active": true,
-    "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-14T10:01:33.025Z",
     "title": "computers laptops c1505 computerdesktop used others in kodihalli bengaluru",
     "description_hash": "911f444ecf82b06c1a4484ffd91ecfde729ad2833dd54db3065c906955b02d59",
     "extracted_specs": {
@@ -2167,7 +2226,7 @@
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "games entertainment c93 high performance gaming and workstation pc in koramangala bengaluru",
     "description_hash": "9c82651ea771269895729e50e85449164a73df8ff3c12ac76b9d04b35778e414",
     "extracted_specs": {
@@ -2318,7 +2377,7 @@
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 computerdesktop used others in kengeri bengaluru",
     "description_hash": "321b540dd1506158ba6fee170836f098bdea850da930540d93a2b8272ce51891",
     "extracted_specs": {
@@ -2369,7 +2428,7 @@
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "computers laptops c1505 used others in yelahanka bengaluru",
     "description_hash": "02ce3a61bdaa3ef37e9ce06c53ffdd5a6dbdad723339dd8a44e0fd1eb1a97563",
     "extracted_specs": {
@@ -2469,7 +2528,7 @@
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "games entertainment c93 intel core 5 rtx 5050 mini gaming pc in koramangala bengaluru",
     "description_hash": "da505e1c529e531fa4922adaa11c4e4f28a3db2038faa3fb63f3739e19ac9578",
     "extracted_specs": {
@@ -2520,7 +2579,7 @@
     ],
     "active": true,
     "missed_runs": 0,
-    "last_seen_at": "2026-08-14T09:15:01.062Z",
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
     "title": "games entertainment c93 lenovo gen 2 portable gaming pc eclipse black 88 inch in chickpet bengaluru",
     "description_hash": "96ab24039c7075bb5cb79d79958678e0ce78d198a53f686ac088b3a572da089f",
     "extracted_specs": {
@@ -2558,5 +2617,525 @@
     "description_quality": "lazy",
     "short_summary": "Bad deal due to a lack of specifications and non-compliance with the minimum requirement of a dedicated GPU.",
     "detailed_summary": "This listing is extremely sparse, only mentioning it is a used Lenovo portable gaming PC. Crucial components like the CPU, RAM, storage, and importantly, the dedicated GPU (which must be at least an RTX 3060 or equivalent AMD per user constraints) are entirely unmentioned. Following strict rules, these specs are marked as null. Because a dedicated GPU is not explicitly stated and required specifications are absent, this listing is automatically rated as a bad deal with medium scam risk due to missing information."
+  },
+  "1852534385": {
+    "ad_id": "1852534385",
+    "url": "https://www.olx.in/item/computer-accessories-c1515-gaming-pc-full-setup-in-veerasandra-bengaluru-iid-1852534385",
+    "first_seen_at": "2026-08-14T10:01:33.025Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-14T10:01:33.025Z",
+        "price": 60000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
+    "title": "computer accessories c1515 gaming pc full setup in veerasandra bengaluru",
+    "description_hash": "3b66e6ebb247069cbef87cc5c87008c6736048fc0d71366a8758fd37fe53832c",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": null,
+        "value": null
+      },
+      "cpu": {
+        "evidence": "i5 12 gen f processor",
+        "value": "Intel Core i5 12th Gen F"
+      },
+      "gpu": {
+        "evidence": "graphic card nvedia p400",
+        "value": "NVIDIA Quadro P400"
+      },
+      "ram": {
+        "evidence": "ram 8 gb",
+        "value": "8GB"
+      },
+      "storage": {
+        "evidence": "ssd nvme 128 + 500 gb hard drive",
+        "value": "128GB NVMe SSD + 500GB HDD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "low",
+    "description_quality": "moderate",
+    "short_summary": "Extremely overpriced full setup featuring weak specs like an NVIDIA P400 and 8GB RAM.",
+    "detailed_summary": "The listing asks for 60,000 INR for a setup containing an Intel i5 12th Gen F processor, an extremely outdated or low-end NVIDIA Quadro P400 graphics card, only 8GB of RAM, and mixed storage. This falls far below the user's explicit requirement of an RTX 3060 equivalent or higher and at least 16GB of RAM. Given the components mentioned, the value is a fraction of the asking price, making it a definitive bad deal."
+  },
+  "1852604657": {
+    "ad_id": "1852604657",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-hegganahalli-bengaluru-iid-1852604657",
+    "first_seen_at": "2026-08-15T07:01:24.416Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-15T07:01:24.416Z",
+        "price": 69999
+      },
+      {
+        "timestamp": "2026-08-16T14:01:30.652Z",
+        "price": 67000
+      },
+      {
+        "timestamp": "2026-08-16T18:01:35.159Z",
+        "price": 64999
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-19T04:01:25.750Z",
+    "title": "computers laptops c1505 computerdesktop used others in hegganahalli bengaluru",
+    "description_hash": "b10f6c90200e50435fd76e615cb566cdafa7810eeb90787ebb37ced84e41adea",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "Less used and components are perfectly working",
+        "value": "Less used, perfectly working"
+      },
+      "cpu": {
+        "evidence": "AMD Ryzen 5 5500",
+        "value": "AMD Ryzen 5 5500"
+      },
+      "gpu": {
+        "evidence": "NVIDIA GeForce gigabyte RTX 4060 8GB — 3XO OC Edition",
+        "value": "NVIDIA GeForce RTX 4060 8GB"
+      },
+      "ram": {
+        "evidence": "16GB DDR4 3200MHz",
+        "value": "16GB DDR4 3200MHz"
+      },
+      "storage": {
+        "evidence": "512GB SSD",
+        "value": "512GB SSD"
+      },
+      "warranty": {
+        "evidence": "All components are under warranty",
+        "value": "under warranty"
+      }
+    },
+    "deal_tier": "good",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "short_summary": "Ryzen 5 5500 and RTX 4060 build with active warranty for 65k INR.",
+    "detailed_summary": "The listing clearly outlines an AMD Ryzen 5 5500 paired with an RTX 4060 8GB, 16GB DDR4 3200MHz RAM, and 512GB SSD. The inclusion of a 650W PSU and active component warranties adds peace of mind. Given comparable listings featuring RTX 4060 setups around Bengaluru, the 64,999 INR price point is fair and a solid option for someone looking for a modern, warranty-backed mid-range gaming PC.",
+    "last_notified_tier": "good",
+    "last_notified_price": 64999
+  },
+  "1852701787": {
+    "ad_id": "1852701787",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-subbannaiah-palya-bengaluru-iid-1852701787",
+    "first_seen_at": "2026-08-16T06:01:20.409Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-16T06:01:20.409Z",
+        "price": 70000
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-17T02:01:30.708Z",
+    "title": "computers laptops c1505 computerdesktop used others in subbannaiah palya bengaluru",
+    "description_hash": "52399e587031d7225b33c838832e53ac215f9ef00dfd10932793d604938beb69",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": "1 year 4 months old",
+        "value": 16
+      },
+      "condition": {
+        "value": null
+      },
+      "cpu": {
+        "evidence": "Intel i5 12400f 12th gen CPU",
+        "value": "Intel Core i5-12400F"
+      },
+      "gpu": {
+        "evidence": "MSI RTX 4060 8GB GDDR6",
+        "value": "NVIDIA RTX 4060"
+      },
+      "ram": {
+        "evidence": "16GB DDR5 RAM from Gskill",
+        "value": "16GB DDR5"
+      },
+      "storage": {
+        "evidence": "1 TB XPG Gaming SSD",
+        "value": "1TB SSD"
+      },
+      "warranty": {
+        "value": null
+      }
+    },
+    "deal_tier": "good",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "short_summary": "Solid mid-range DDR5 PC with an RTX 4060 at a fair price.",
+    "detailed_summary": "The listing provides explicit and complete details including an Intel i5-12400F, MSI RTX 4060 8GB, 16GB DDR5 RAM, and a 1TB XPG SSD. The age is explicitly stated as 1 year and 4 months. Given the component tier and inclusion of modern DDR5 memory, the pricing is competitive within the local market context, making it a good deal that satisfies user requirements.",
+    "last_notified_tier": "good",
+    "last_notified_price": 70000
+  },
+  "1852728614": {
+    "ad_id": "1852728614",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-thavarekere-cashier-layout-bengaluru-iid-1852728614",
+    "first_seen_at": "2026-08-16T10:01:36.105Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-16T10:01:36.105Z",
+        "price": 120000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
+    "title": "computers laptops c1505 computerdesktop used others in thavarekere cashier layout bengaluru",
+    "description_hash": "dc7cd070d0d2283d945a84d47013e496623310d58b80b80d3c9eb67475fdb5f5",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "value": null
+      },
+      "cpu": {
+        "evidence": "Ryzen 9 7950x",
+        "value": "AMD Ryzen 9 7950X"
+      },
+      "gpu": {
+        "evidence": "Zotac Rtx 4060 8gb",
+        "value": "NVIDIA RTX 4060 8GB"
+      },
+      "ram": {
+        "evidence": "32gb ddr5 rams 5200mhz",
+        "value": "32GB DDR5 5200MHz"
+      },
+      "storage": {
+        "evidence": "1tb nvmeZotac Rtx 4060 8gb 360mm liquid cooler 500gb nvme",
+        "value": "1.5TB NVMe SSD"
+      },
+      "warranty": {
+        "evidence": "Under warranty",
+        "value": "Under warranty"
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "low",
+    "description_quality": "lazy",
+    "short_summary": "Extremely overpriced and bottlenecked component pairing for the price.",
+    "detailed_summary": "The listing features a powerful Ryzen 9 7950X processor coupled with an RTX 4060 8GB, 32GB DDR5 RAM, and liquid cooling. However, asking 1,20,000 INR for a build featuring an entry-mid range RTX 4060 is far too high for the local secondhand market, even with some components under warranty. The description is quite brief and lazy, leading to lower overall deal confidence. While it meets the user's minimum hardware requirements, the pricing relative to the actual gaming performance of an RTX 4060 makes it a bad deal."
+  },
+  "1852842151": {
+    "ad_id": "1852842151",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-subbannaiah-palya-bengaluru-iid-1852842151",
+    "first_seen_at": "2026-08-17T12:01:37.317Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-17T12:01:37.317Z",
+        "price": 70000
+      }
+    ],
+    "active": false,
+    "missed_runs": 2,
+    "last_seen_at": "2026-08-18T11:02:21.933Z",
+    "title": "computers laptops c1505 computerdesktop used others in subbannaiah palya bengaluru",
+    "description_hash": "23bc2eea9f5404c785298facd5ed46f1eabfa48734cd058fe47a82e1b228159f",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": "Only 1 year 4 months old",
+        "value": 16
+      },
+      "condition": {
+        "evidence": "Desktop PC in excellent condition",
+        "value": "excellent"
+      },
+      "cpu": {
+        "evidence": "12th gen i5 12400f intel core processor",
+        "value": "Intel Core i5-12400F"
+      },
+      "gpu": {
+        "evidence": null,
+        "value": null
+      },
+      "ram": {
+        "evidence": "16GB DDR5 RAM from GSKILL",
+        "value": "16GB DDR5"
+      },
+      "storage": {
+        "evidence": "1TB XPG Gammix SSD",
+        "value": "1TB SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "low",
+    "description_quality": "moderate",
+    "short_summary": "Missing a dedicated GPU entirely, making this a bad deal based on user requirements.",
+    "detailed_summary": "The listing provides details for an Intel Core i5-12400F processor, 16GB DDR5 RAM, and a 1TB SSD. However, it explicitly states 'No monitor only CPU' and contains no mention of any dedicated graphics card (GPU). Because the user strictly requires at least an NVIDIA RTX 3060 or equivalent AMD card, this listing completely fails the minimum criteria. Therefore, despite having decent core components, it must be rated as a bad deal due to the total absence of the required GPU."
+  },
+  "1852880524": {
+    "ad_id": "1852880524",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-pillanna-gardens-bengaluru-iid-1852880524",
+    "first_seen_at": "2026-08-17T18:01:26.168Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-17T18:01:26.168Z",
+        "price": 52500
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
+    "title": "computers laptops c1505 computerdesktop used others in pillanna gardens bengaluru",
+    "description_hash": "d4392544304e8b05417c56acc71c5e7a19f8f03c9091859d8fd695cd3fc2de30",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "value": null
+      },
+      "cpu": {
+        "evidence": "Ryzen 5 5500",
+        "value": "AMD Ryzen 5 5500"
+      },
+      "gpu": {
+        "evidence": "GTX zotac 1660super gpu 6gb",
+        "value": "NVIDIA GTX 1660 Super 6GB"
+      },
+      "ram": {
+        "evidence": "32gb ram",
+        "value": "32GB"
+      },
+      "storage": {
+        "evidence": "256gb SSD",
+        "value": "256GB SSD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "medium",
+    "description_quality": "lazy",
+    "short_summary": "Severely overpriced system with an outdated GPU that fails minimum user constraints.",
+    "detailed_summary": "The listing provides a poorly formatted, sparse description containing an AMD Ryzen 5 5500 paired with an older GTX 1660 Super 6GB, 32GB of RAM, and a small 256GB SSD, priced at 52,500 INR. According to user constraints, an RTX 3060 or equivalent/higher AMD card is an absolute minimum requirement. Since this PC only offers a GTX 1660 Super, it automatically falls into the bad deal tier. Additionally, market comparisons show significantly more powerful builds featuring RTX 30-series and 40-series GPUs available around similar or better price points, making this an extremely poor financial choice."
+  },
+  "1852882057": {
+    "ad_id": "1852882057",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-high-performance-gaming-workstation-pc-in-richards-town-bengaluru-iid-1852882057",
+    "first_seen_at": "2026-08-17T18:01:26.168Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-17T18:01:26.168Z",
+        "price": 50000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
+    "title": "computers laptops c1505 high performance gaming workstation pc in richards town bengaluru",
+    "description_hash": "a2af86ba28f2edd115e4aa914e380bc4783dbf54b774a12f2d74b522780c53bf",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "in excellent working condition",
+        "value": "excellent working condition"
+      },
+      "cpu": {
+        "evidence": "Processor: Intel Core i7-5960X Extreme Edition",
+        "value": "Intel Core i7-5960X Extreme Edition"
+      },
+      "gpu": {
+        "evidence": "Graphics Card: ASUS ROG AMD Radeon RX Vega 64",
+        "value": "ASUS ROG AMD Radeon RX Vega 64"
+      },
+      "ram": {
+        "evidence": "RAM: 32GB DDR4 ECC RAM",
+        "value": "32GB DDR4 ECC RAM"
+      },
+      "storage": {
+        "evidence": "Storage: 1.1TB total storage",
+        "value": "1.1TB total storage"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "short_summary": "An aging, high-end workstation from a past decade priced too high for modern gaming standards.",
+    "detailed_summary": "The listing provides a detailed breakdown of components, centered around an older Intel Core i7-5960X Extreme Edition processor and an ASUS ROG AMD Radeon RX Vega 64. While the build includes 32GB of ECC DDR4 RAM and an X99 workstation motherboard, the core components are many generations behind. Compared to active local listings featuring 12th/14th gen Intel or Ryzen processors paired with RTX 30-series or 40-series cards around similar price brackets, this hardware is vastly underpowered for modern gaming requirements. Given the user's specific constraint requiring an RTX 3060 equivalent or better, this listing falls short and is rated as a bad deal."
+  },
+  "1852904479": {
+    "ad_id": "1852904479",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-asus-in-gunjur-bengaluru-iid-1852904479",
+    "first_seen_at": "2026-08-18T05:01:33.316Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-18T05:01:33.316Z",
+        "price": 70000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
+    "title": "computers laptops c1505 computerdesktop used asus in gunjur bengaluru",
+    "description_hash": "1628ab85939f3de41fd6acce8e1da3afc9e91347bae1ebe0470035aecb2af63f",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "well-maintained mid-range Gaming PC setup",
+        "value": "well-maintained"
+      },
+      "cpu": {
+        "evidence": "Intel Core i5-11400 (6 Cores / 12 Threads)",
+        "value": "Intel Core i5-11400"
+      },
+      "gpu": {
+        "evidence": "ASRock Radeon RX 6600 8GB GDDR6",
+        "value": "AMD Radeon RX 6600 8GB"
+      },
+      "ram": {
+        "evidence": "32GB DDR4 3200MHz Dual Channel (16GB x 2)",
+        "value": "32GB DDR4"
+      },
+      "storage": {
+        "evidence": "512GB NVMe M.2 2300 Micron + 1TB 3.5\" HDD",
+        "value": "512GB NVMe SSD + 1TB HDD"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "short_summary": "Detailed listing featuring an i5-11400 and RX 6600, but fails user GPU minimum requirements and is heavily overpriced at 70000 INR.",
+    "detailed_summary": "The listing provides explicit specifications including an Intel Core i5-11400, ASRock Radeon RX 6600 8GB, 32GB DDR4 RAM, and a combination of NVMe and HDD storage. However, the user explicitly specified a strict minimum GPU requirement of an NVIDIA RTX 3060 equivalent or higher. The AMD Radeon RX 6600 falls short of this requirement. Additionally, compared to local listings featuring modern components like RTX 3060 Ti, RTX 4060, and i5-12400F configurations, 70000 INR is drastically overpriced for an 11th-gen i5 with an RX 6600. Consequently, this is classified as a bad deal."
+  },
+  "1852937801": {
+    "ad_id": "1852937801",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-gaming-pc-setup-ryzen-5-5600g-rx-570-4gb-8gb-ram-in-jp-nagar-phase-6-bengaluru-iid-1852937801",
+    "first_seen_at": "2026-08-18T10:01:27.359Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-18T10:01:27.359Z",
+        "price": 65000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
+    "title": "computers laptops c1505 gaming pc setup ryzen 5 5600g rx 570 4gb 8gb ram in jp nagar phase 6 bengaluru",
+    "description_hash": "d8edfe4e9fbf1f09b5770934c1a9aa84256362881ed715fdc04cba7a2a3f096a",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": null,
+        "value": null
+      },
+      "condition": {
+        "evidence": "good working condition",
+        "value": "good working condition"
+      },
+      "cpu": {
+        "evidence": "AMD Ryzen 5 5600G Processor – 3.90 GHz",
+        "value": "AMD Ryzen 5 5600G"
+      },
+      "gpu": {
+        "evidence": "AMD Radeon RX 570 Series Graphics – 4GB",
+        "value": "AMD Radeon RX 570 4GB"
+      },
+      "ram": {
+        "evidence": "8GB RAM",
+        "value": "8GB"
+      },
+      "storage": {
+        "evidence": "1.38TB total storage",
+        "value": "1.38TB"
+      },
+      "warranty": {
+        "evidence": null,
+        "value": null
+      }
+    },
+    "deal_tier": "bad",
+    "scam_risk": "low",
+    "description_quality": "detailed",
+    "short_summary": "Bad deal due to a low-end GPU and insufficient RAM failing user constraints, despite a decent bundled monitor and peripherals.",
+    "detailed_summary": "The listing includes a complete setup with an ASUS TUF 27-inch 1440p 170Hz monitor, desk, and chair, which explains the higher asking price of 65000 INR. However, the core PC specifications feature an outdated AMD Radeon RX 570 4GB graphics card and only 8GB of RAM. According to the strict user constraints, a GPU equivalent to an NVIDIA RTX 3060 or higher and a minimum of 16GB of RAM are mandatory. Because this listing misses these performance requirements entirely, the deal tier must be classified as bad."
+  },
+  "1852998295": {
+    "ad_id": "1852998295",
+    "url": "https://www.olx.in/item/computers-laptops-c1505-computerdesktop-used-others-in-subbannaiah-palya-bengaluru-iid-1852998295",
+    "first_seen_at": "2026-08-19T01:01:42.095Z",
+    "price_history": [
+      {
+        "timestamp": "2026-08-19T01:01:42.095Z",
+        "price": 70000
+      }
+    ],
+    "active": true,
+    "missed_runs": 0,
+    "last_seen_at": "2026-08-19T14:03:12.291Z",
+    "title": "computers laptops c1505 computerdesktop used others in subbannaiah palya bengaluru",
+    "description_hash": "b5154c9555c75045ae090b11edcc26e5c0babf5cc57ee8c79acbbe515862b1ca",
+    "extracted_specs": {
+      "age_months": {
+        "evidence": "1 year 5 months old",
+        "value": 17
+      },
+      "condition": {
+        "evidence": "In new condition",
+        "value": "New condition"
+      },
+      "cpu": {
+        "evidence": "Intel i5 12400f 12th gen CPU",
+        "value": "Intel Core i5-12400F"
+      },
+      "gpu": {
+        "evidence": "MSI RTX 4060 8GB GDDR6 graphics card",
+        "value": "MSI RTX 4060 8GB"
+      },
+      "ram": {
+        "evidence": "GSkill 16GB DDR5 RAM memory card",
+        "value": "16GB DDR5"
+      },
+      "storage": {
+        "evidence": "XPG Gammix 1TB gaming SSD",
+        "value": "1TB SSD"
+      },
+      "warranty": {
+        "evidence": "With bill for all components",
+        "value": "With bill available"
+      }
+    },
+    "deal_tier": "okay",
+    "scam_risk": "low",
+    "description_quality": "moderate",
+    "short_summary": "Decent modern DDR5 build with an RTX 4060 and i5-12400F, though priced a bit on the higher side.",
+    "detailed_summary": "This listing provides a solid modern configuration featuring an Intel Core i5-12400F, an MSI RTX 4060 8GB, 16GB DDR5 RAM, and a 1TB SSD. It meets the user's specific GPU and RAM requirements comfortably. The seller notes it is 1 year and 5 months old and comes with bills for all components. However, at 70000 INR, the pricing is slightly high for a used entry-to-mid-range system of this generation compared to similar local builds, making it an okay deal rather than a steal.",
+    "last_notified_tier": "okay",
+    "last_notified_price": 70000
   }
 }
