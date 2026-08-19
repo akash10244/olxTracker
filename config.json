@@ -6,7 +6,19 @@
       "search_term": "gaming-pc",
       "price_min": 45000,
       "price_max": 120000,
-      "constraints": "a gpu is a must. atleast nvidia rtx 3060 or higher in amd, ram must be atleast 16gb. cpu also should be capable for the gpu"
+      "constraints": "a gpu is a must. atleast rtx 3060 in nvidia or Radeon RX 6600 XT in amd, ram must be atleast 16gb. cpu also should be capable for the gpu"
+    }
+  ],
+  "facebook_searches": [
+    {
+      "name": "Bengaluru Gaming PC FB",
+      "search_term": "gaming pc",
+      "location": "Bengaluru, Karnataka, India",
+      "price_min": 45000,
+      "price_max": 120000,
+      "max_items": 15,
+      "days_listed": 1,
+      "constraints": "a gpu is a must. atleast rtx 3060 in nvidia or Radeon RX 6600 XT in amd, ram must be atleast 16gb. cpu also should be capable for the gpu"
     }
   ],
   "poll_interval_hours": 2,
