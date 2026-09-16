@@ -39,6 +39,7 @@ async function main() {
   }
 
   let runFailed = false;
+  let totalNotificationsSent = 0;
   const currentRunTime = new Date().toISOString();
 
   for (const searchDef of config.searches || []) {
@@ -150,7 +151,7 @@ async function main() {
           
           if (newRank > lastRank) {
             shouldNotify = true;
-          } else if (newRank === lastRank && newRank > 0) { // Same tier (and not bad)
+          } else if (newRank > 0 && lastNotifiedPrice !== Infinity) { // If it's still a valid deal, check for price drops regardless of tier changes
             const threshold = (config.discount_threshold_percent || 8) / 100;
             if (currentPrice <= lastNotifiedPrice * (1 - threshold)) {
               shouldNotify = true;
@@ -173,6 +174,7 @@ async function main() {
             
             existing.last_notified_tier = aiResult.deal_tier;
             existing.last_notified_price = currentPrice;
+            totalNotificationsSent++;
           }
           
           // Save database immediately so we don't lose progress if script crashes or is killed
@@ -195,6 +197,12 @@ async function main() {
         }
       }
     }
+  }
+
+  // Ping email if no listings were found
+  if (totalNotificationsSent === 0) {
+    console.log(`[Main] Sending empty ping email as requested.`);
+    await sendEmailDigest(`OLX Tracker: Status Ping`, `<p>The tracker ran successfully at ${currentRunTime}, but no new deals met your criteria this run.</p>`);
   }
 
   // Save data
