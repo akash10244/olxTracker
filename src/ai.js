@@ -64,7 +64,7 @@ Rules:
 6. If uncertain between two classifications, prefer the more conservative one rather than an optimistic guess.
 7. Output ONLY the JSON object matching the provided schema. No preamble, no markdown, no explanation outside the schema fields.
 
-${constraints ? `8. USER CONSTRAINTS (CRITICAL): The user has specified the following minimum requirements for a PC to be considered a deal: "${constraints}". If the listing does NOT clearly meet these requirements (or if a crucial component like a dedicated GPU, CPU, RAM, or Storage is entirely missing), you MUST strictly classify the deal_tier as "bad".` : ''}`;
+${constraints ? `8. USER CONSTRAINTS (CRITICAL): The user has specified the following requirements for this search: "${constraints}". If the listing does NOT clearly meet these requirements (or if a crucial component required by the constraints is missing), you MUST strictly classify the deal_tier as "bad". (If the constraints imply a full PC, missing CPU/RAM/Storage makes it "bad". If the constraints imply a standalone part like a GPU, missing other PC parts is completely expected and acceptable).` : ''}`;
 
   const contextStr = activeListingsContext.length > 0 
     ? activeListingsContext.map(l => `- Title: ${l.title} | Price: ${l.price} | Specs: ${JSON.stringify(l.extracted_specs || {})}`).join('\n')

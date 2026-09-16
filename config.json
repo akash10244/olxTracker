@@ -7,6 +7,22 @@
       "price_min": 45000,
       "price_max": 120000,
       "constraints": "a gpu is a must. atleast rtx 3060 in nvidia or Radeon RX 6600 XT in amd, ram must be atleast 16gb. cpu also should be capable for the gpu"
+    },
+    {
+      "name": "Bengaluru High-End GPU",
+      "location_slug": "bengaluru_g4058803",
+      "search_term": "graphics-card",
+      "price_min": 25000,
+      "price_max": 150000,
+      "constraints": "Must be a standalone GPU (graphics card). Accepted models ONLY: RTX 3080, 3090, 4070, 4080, 4090, 5060, 5070 (including all Ti and Super variants). Higher VRAM variants are preferred. Mark any lesser GPUs as bad deals."
+    },
+    {
+      "name": "Bengaluru RTX GPU",
+      "location_slug": "bengaluru_g4058803",
+      "search_term": "rtx",
+      "price_min": 25000,
+      "price_max": 150000,
+      "constraints": "Must be a standalone GPU (graphics card). Accepted models ONLY: RTX 3080, 3090, 4070, 4080, 4090, 5060, 5070 (including all Ti and Super variants). Higher VRAM variants are preferred. Mark any lesser GPUs as bad deals."
     }
   ],
   "facebook_searches": [
@@ -19,6 +35,16 @@
       "max_items": 15,
       "days_listed": 1,
       "constraints": "a gpu is a must. atleast rtx 3060 in nvidia or Radeon RX 6600 XT in amd, ram must be atleast 16gb. cpu also should be capable for the gpu"
+    },
+    {
+      "name": "Bengaluru High-End GPU FB",
+      "search_term": "graphics card",
+      "location": "Bengaluru, Karnataka, India",
+      "price_min": 25000,
+      "price_max": 150000,
+      "max_items": 15,
+      "days_listed": 1,
+      "constraints": "Must be a standalone GPU (graphics card). Accepted models ONLY: RTX 3080, 3090, 4070, 4080, 4090, 5060, 5070 (including all Ti and Super variants). Higher VRAM variants are preferred. Mark any lesser GPUs as bad deals."
     }
   ],
   "poll_interval_hours": 2,
