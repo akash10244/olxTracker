@@ -23,6 +23,22 @@
       "price_min": 25000,
       "price_max": 150000,
       "constraints": "Must be a standalone GPU (graphics card). Accepted models ONLY: RTX 3080, 3090, 4070, 4080, 4090, 5060, 5070 (including all Ti and Super variants). Higher VRAM variants are preferred. Mark any lesser GPUs as bad deals."
+    },
+    {
+      "name": "Bengaluru Budget CPU",
+      "location_slug": "bengaluru_g4058803",
+      "search_term": "processor",
+      "price_min": 5000,
+      "price_max": 25000,
+      "constraints": "Must be a standalone CPU (processor). Minimum accepted models: AMD Ryzen 5 5600/7600, Ryzen 7 5700/5800/7700. Intel Core i5 12400/13400/14400 or i7 12700. Mark any older CPUs (like Ryzen 3000 series or Intel 10th/11th Gen) or extremely expensive high-end CPUs (like i9/Ryzen 9) as bad deals."
+    },
+    {
+      "name": "Bengaluru Ryzen CPU",
+      "location_slug": "bengaluru_g4058803",
+      "search_term": "ryzen",
+      "price_min": 5000,
+      "price_max": 25000,
+      "constraints": "Must be a standalone CPU (processor). Minimum accepted models: AMD Ryzen 5 5600/7600, Ryzen 7 5700/5800/7700. Intel Core i5 12400/13400/14400 or i7 12700. Mark any older CPUs (like Ryzen 3000 series or Intel 10th/11th Gen) or extremely expensive high-end CPUs (like i9/Ryzen 9) as bad deals."
     }
   ],
   "facebook_searches": [
@@ -45,6 +61,16 @@
       "max_items": 15,
       "days_listed": 1,
       "constraints": "Must be a standalone GPU (graphics card). Accepted models ONLY: RTX 3080, 3090, 4070, 4080, 4090, 5060, 5070 (including all Ti and Super variants). Higher VRAM variants are preferred. Mark any lesser GPUs as bad deals."
+    },
+    {
+      "name": "Bengaluru Budget CPU FB",
+      "search_term": "processor",
+      "location": "Bengaluru, Karnataka, India",
+      "price_min": 5000,
+      "price_max": 25000,
+      "max_items": 15,
+      "days_listed": 1,
+      "constraints": "Must be a standalone CPU (processor). Minimum accepted models: AMD Ryzen 5 5600/7600, Ryzen 7 5700/5800/7700. Intel Core i5 12400/13400/14400 or i7 12700. Mark any older CPUs (like Ryzen 3000 series or Intel 10th/11th Gen) or extremely expensive high-end CPUs (like i9/Ryzen 9) as bad deals."
     }
   ],
   "poll_interval_hours": 2,
