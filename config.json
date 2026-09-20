@@ -5,7 +5,7 @@
       "location_slug": "bengaluru_g4058803",
       "search_term": "gaming-pc",
       "price_min": 45000,
-      "price_max": 120000,
+      "price_max": 145000,
       "constraints": "a gpu is a must. atleast rtx 3060 in nvidia or Radeon RX 6600 XT in amd, ram must be atleast 16gb. cpu also should be capable for the gpu"
     },
     {
@@ -39,6 +39,22 @@
       "price_min": 5000,
       "price_max": 25000,
       "constraints": "Must be a standalone CPU (processor). Minimum accepted models: AMD Ryzen 5 5600/7600, Ryzen 7 5700/5800/7700. Intel Core i5 12400/13400/14400 or i7 12700. Mark any older CPUs (like Ryzen 3000 series or Intel 10th/11th Gen) or extremely expensive high-end CPUs (like i9/Ryzen 9) as bad deals."
+    },
+    {
+      "name": "Bengaluru Desktop RAM",
+      "location_slug": "bengaluru_g4058803",
+      "search_term": "desktop-ram",
+      "price_min": 1500,
+      "price_max": 15000,
+      "constraints": "Must be standalone Desktop RAM (memory). Minimum capacity is 16GB total (can be 2x8GB, 1x16GB, 2x16GB, etc). Must be DDR4 or DDR5. Laptop RAM (SODIMM) is a bad deal. Slower or smaller capacity RAM is a bad deal."
+    },
+    {
+      "name": "Bengaluru Gaming Laptop",
+      "location_slug": "bengaluru_g4058803",
+      "search_term": "gaming-laptop",
+      "price_min": 45000,
+      "price_max": 145000,
+      "constraints": "Must be a gaming laptop. A dedicated GPU is a must. At least RTX 3060 in NVIDIA or Radeon RX 6600M in AMD. RAM must be at least 16GB. CPU should be capable for the GPU."
     }
   ],
   "facebook_searches": [
@@ -47,7 +63,7 @@
       "search_term": "gaming pc",
       "location": "Bengaluru, Karnataka, India",
       "price_min": 45000,
-      "price_max": 120000,
+      "price_max": 145000,
       "max_items": 15,
       "days_listed": 1,
       "constraints": "a gpu is a must. atleast rtx 3060 in nvidia or Radeon RX 6600 XT in amd, ram must be atleast 16gb. cpu also should be capable for the gpu"
@@ -71,6 +87,26 @@
       "max_items": 15,
       "days_listed": 1,
       "constraints": "Must be a standalone CPU (processor). Minimum accepted models: AMD Ryzen 5 5600/7600, Ryzen 7 5700/5800/7700. Intel Core i5 12400/13400/14400 or i7 12700. Mark any older CPUs (like Ryzen 3000 series or Intel 10th/11th Gen) or extremely expensive high-end CPUs (like i9/Ryzen 9) as bad deals."
+    },
+    {
+      "name": "Bengaluru Desktop RAM FB",
+      "search_term": "desktop ram",
+      "location": "Bengaluru, Karnataka, India",
+      "price_min": 1500,
+      "price_max": 15000,
+      "max_items": 15,
+      "days_listed": 1,
+      "constraints": "Must be standalone Desktop RAM (memory). Minimum capacity is 16GB total (can be 2x8GB, 1x16GB, 2x16GB, etc). Must be DDR4 or DDR5. Laptop RAM (SODIMM) is a bad deal. Slower or smaller capacity RAM is a bad deal."
+    },
+    {
+      "name": "Bengaluru Gaming Laptop FB",
+      "search_term": "gaming laptop",
+      "location": "Bengaluru, Karnataka, India",
+      "price_min": 45000,
+      "price_max": 145000,
+      "max_items": 15,
+      "days_listed": 1,
+      "constraints": "Must be a gaming laptop. A dedicated GPU is a must. At least RTX 3060 in NVIDIA or Radeon RX 6600M in AMD. RAM must be at least 16GB. CPU should be capable for the GPU."
     }
   ],
   "poll_interval_hours": 2,
