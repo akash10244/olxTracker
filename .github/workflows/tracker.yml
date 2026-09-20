@@ -2,6 +2,15 @@ name: OLX Deal Tracker
 
 on:
   workflow_dispatch: # Manual trigger only
+    inputs:
+      test_ping:
+        description: 'Send a status ping email even if no deals are found'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
 
 concurrency:
   group: olx-tracker
@@ -29,6 +38,7 @@ jobs:
       - name: Run Tracker
         run: node src/index.js
         env:
+          TEST_PING: ${{ github.event.inputs.test_ping }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

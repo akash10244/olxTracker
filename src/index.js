@@ -200,8 +200,8 @@ async function main() {
   }
 
   // Ping email if no listings were found
-  if (totalNotificationsSent === 0) {
-    console.log(`[Main] Sending empty ping email as requested.`);
+  if (totalNotificationsSent === 0 && process.env.TEST_PING === 'true') {
+    console.log(`[Main] Sending empty ping email as requested via test endpoint.`);
     await sendEmailDigest(`OLX Tracker: Status Ping`, `<p>The tracker ran successfully at ${currentRunTime}, but no new deals met your criteria this run.</p>`);
   }
 
